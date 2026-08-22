@@ -1,0 +1,48 @@
+A aquesta aplicació de transport global basada en la API de transit.land estic tenint problemes amb la pantalla de selecció de Favorites, ja que si es marca alguna Agency, la primera vegada apareix a la pantalla, però no a les posteriors. Ho pots revisar?
+
+o-sp4-consorcidemallorca-consorcidetransportsdemallorca, 
+o-transporte-público-de-la-isla-de-mallorca-consorcidetransportsdemallorca
+
+API: UiMWbgxH7E1mmKUJZ6AApHyjVv0GQdYo
+Error: Failed to load agencies. Status code: 401
+Error: ClientException: Failed to fetch, uri=http://www.transit.land/api/v2/agencies?places=Spain/Baleares
+Unnamed Agency
+TypeError: null: type 'Null' is not a subtype of type 'Agency'
+No routes found for this agency
+TypeError: 154309: type 'int' is not subtype of 'String'
+Error searching places: Failed to search places. Status code: 404
+Error loading routes: TypeError: 154281: type 'int' is not subtype of 'String'
+Route geometry is not available.
+Error searching places: ClientException: Failed to fetch, uri=htpps://transit.land/api/v2/search?q=Palma&kind=place&api_key=UiMWbgxH7E1mmKUJZ6AApHyjVv0GQdYo
+TypeError: null: type 'Null' is not a subtype of type 'TransitRoute'
+Error loading route details: An unexpected error occurred: Could not parse the ordered stop data from teh API response.
+Error loading route details: An unexpected error occurred: Failed to load trips for route. Status: 404
+Error: Could not find the correct Provider<FavoritesProvider> above this Consumer<FavoritesProvider> Widget
+Error loading route details: An unexpected error occurred: Could not parse the ordered stop data from teh API response.
+Error: No location permissions are defined in the manifest. Make sure at least ACCESS_FINE_LOCATION or ACCESS_COARSE_LOCATION are defined in the manifest.
+Error loading route details: Failed to fetch route geomerty. Status 404
+Error: Bad state: No element
+
+flutter test
+flutter clean
+flutter pub get
+flutter analyze
+flutter build web
+flutter build apk
+flutter build apk --split-per-abi
+flutter pub run flutter_launcher_icons
+flutter build appbundle --release
+
+flutter doctor
+flutter doctor --android-licenses
+flutter create . --platforms=android
+
+android/app/upload-keystore.jks
+build/app/outputs/flutter-apk/app-debug.apk
+build/app/outputs/bundle/release/app-release.aab
+
+flutter run -d Linux
+flutter run -d chrome
+flutter run -d web-server
+
+Podries trobar el motiu perquè en instal·lar l'aplicació al meu Galaxy A54 5G SM-A546E/DS amb un Android 16 versió de Kernel 5.15.180-android13-3-32001549 em dona l'error: l'aplicació no s'ha instal·lat perquè no és compatible amb el telèfon?

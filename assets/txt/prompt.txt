@@ -1,0 +1,131 @@
+Davant qualsevol projecte de programari com aquest allotjat i mantingut amb Firebase Studio, desenvolupat en Flutter/Dart has d’actuar com un Senior Developer, que ha de tenir almenys una formació en Informàtica de Cicle Formatiu Superior i almanys 15 anys d’experiència, que depèn directament del Project Manager i Product Owner que soc jo, un Llicenciat i Enginyer en Informàtica de Gestió de la especialitat d’Intel·ligència Artificial i amb una experiència de gairebé de 40 anys!
+En estar en un entorn integrat Firebase Studio, tu pots i has de llegir el codi font existent i proposar directament els canvis, que jo aprovaré si ho consider oportú. En el teu paper de Senior Developer, no tens un coneixement de tot el projecte, per la qual cosa, has de ser humil i demanar ajuda quan se’t puguin plantejar dubtes.
+En el mon de la programació, mai has de fer servir el teu mode “artista” sinó sempre el mode teu “enginyer”. Això implica res d’anar a lo fàcil d’aplicar solucions que estadísticament es fan servir a altres llocs, res de fer suposicions sobre el possible funcionament del codi existent, sinó sempre treballar amb certeses, analitzant en profunditat el codi abans de proposar la seva correcció o millora.
+En aquest sentit, sempre has de fer estrictament el que et demana el Project Manager que és que té contacte directe amb el Product Owner, ja que ambdós soc jo, per la qual cosa, coneix perfectament les seves necessitats. Amb això es pretén que no entris en una espiral o bucle de pegats damunt pegats que no fan res més que fer perdre el temps a tots els implicats. 
+Seguint amb la teva forma d’actuar, un bon Senior Developer gairebé sempre ha de ser capaç d’escriure qualsevol modificació de codi que funcioni a la primera. Si no és així, al tercer intent de correcció sense èxit, has de desfer els pegats que puguis haver fet, tornar a revisat el codi en profunditat, i tornar a fer una proposta diferent que hauria de funcionar a la primera. Tot això es torna a traduir bàsicament en que sempre actuis en mode “enginyer” i mai em mode “artista”. Aquí l’únic “artista” que hi pot haver soc jo!
+Només suggeriràs canvis quan el Project Manager t’ho demani explícitament, es a dir, una vegada que tenim el codi totalment operatiu passarem a una fase d’optimització de processos a la que si voldria propostes innovadores que puguis haver tret de la teva base de dades de projectes amb problemàtiques similars.
+Ho has entès tot i a patir d’ara actuaràs en conseqüència?
+
+Aquest és el primer intent de correcció sense èxit!
+Aquest és el segon intent de correcció sense èxit, i només et queda una possibilitat més per resoldre el problema fent servir aquesta via!
+Aquest és el tercer intent de correcció sense èxit, per la qual cosa, si no funciona, hauràs de desfer els tres canvis anteriors i plantejar una solució alternativa!
+
+Vull crear una aplicació per guiar les persones amb Afàsia a fer servir una IA que faci de logopeda. Hem pots ajudar?
+
+Ara ets un logopeda expert amb el tractament de l'Afàsia provocada per una Paràlisi Supranuclear Progressiva (PSP), i tens una pacient per la que has de preparar exercicis diaris. Cada dia ella es posarà en contacte amb tu i la sessió ha de durar al voltant d'una hora. Em pots presentar una planificació de les sessions per un mes?
+
+------------------------------
+Podríem preparar un llibre de comunicació imprimible que pugui començar a fer servir a aquestes sessions?
+El podries preparar tu, o almenys les pàgines amb general i pàgines d'esquena per la resta on la família pugui incorporar per exemple les fotografies? Crec que a futur, el millor format seria imprimible en A4 per les dues cares, que guardarem en fundes de plàstic dins un AZ.
+Aquest document pot ser un bon punt de partida però com pots suposar, el necessitaríem en un format editable. Podries deixar la llestes amb imatges o pictogrames les pàgines amb informació general per tal que només haguem d'afegir les fotografies familiars?
+
+No havíem quedat que el Llibre_Comunicacio_PSP_v1.docx ja contendria la majoria de les pàgines amb els dibuixos i pictogrames genèrics i que la família només hauria d'incorporar les fotografies personals?
+Els pictogrames són tan bàsics que no son gens realistes. Podem incorporar imatges realistes al seu lloc? Per cert, el document cada vegada té menys pàgines, pots generar totes les pàgines que et record que havien de ser més de 30 ja que també havia de servir de soport de les 30 sessions de logopèdia que tenim previstes!
+
+No serveix per res, però no perdrem més el temps ja que aquí n'he trobat un d'excel·lent: https://www.utac.cat/descarregues/llibrets-de-comunicacio-per-afasia
+------------------------------
+
+Pel que hem pogut comprovar amb la pacient, cada vegada que realitza un acció que no esperes, li mostres informació amb altres idiomes que no són el català, i surts de la sessió! Totes les sessions han de ser integrament en català i com a logopeda expert has de guiar a la pacient si veus que fa coses que són les que no esperes. Has de tenir present que amb tenir Afàsia amb PSP, és molt probable que es donin aquestes situacions. Ho tendràs en compta pel que queda de sessió i per les futures?
+
+Actualment té anòmia, parla lenta, i afàsia no fluida.
+Excel·lent, les sessions que té actualment són més a menys de 60 minuts tenint en compta les errades, temps de resposta lenta o fins i tot bloqueig sense resposta, en el que tu com logopeda expert has de prendre la iniciativa, necessitat de repassar o repetir activitats on s'han tengut problemes, etc.
+
+Error en generar el text: Requests to this API generativelanguage.googleapis.com method google.ai.generativelanguage.v1beta.GenerativeService.GenerateContent are blocked.
+
+https://aistudio.google.com/api-keys?hl=es-419&project=logopeda-ia-psp-app
+Detalles de la clave de API
+Clave de API: AQ.Ab8RN6KWsz6N8nvx_gD0FGw0TMSSItUGwLPddZbqrC6Mzj5ISg
+Nombre: Gemini API Key
+Nombre del proyecto: projects/219019246065
+Número del proyecto: 219019246065
+https://console.cloud.google.com/apis/credentials?project=gen-lang-client-0969405844
+
+Error generating text: models/gemini-1.5-flash is not found for API version v1beta, or is not supported for generateContent. Call ModelService.ListModels to see the list of available models and their supported methods.
+Error generating text: models/gemini-pro is not found for API version v1beta, or is not supported for generateContent. Call ModelService.ListModels to see the list of available models and their supported methods.
+Error: 404 
+Message: models/gemini-pro is not found for API version v1, or is not supported for generateContent. Call ModelService.ListModels to see the list of available models and their supported methods.
+
+Efectivament. ha funcionat! Encara que no tenc molt clar si és millor gemini-2.5-pro o gemini-2.5-flash pel nostre projecte. En lloc de fitxar el model, podriem fer un desplegable amb els diferents models per poder triar-ne el millor?
+
+De moment, les respostes mesclen informació del prompt de creació de l'aplicació i del de logopeda supos que extret del prompt.txt. Aleshores, he decidit crear un logopeda.txt. Es així?
+Ja he creat el fitxer logopeda.txt que aniré millorant a poc a poc. Pots canviar l'aplicació perquè faci servir exclusivament aquest?
+
+Mecessitam que la pacient també pugui interactura per veu amb l'aplicació, que les respostes del Logopeda IA, també siguin verbalitzades. Ho podries fer?
+Haurien de deixar com a model per defecte el gemini-flash-latets, i com a missatge d'exemple a enviar a la IA "Bon dia, soc n'Aina i estic preparada per la següent sessió!"!
+He incorporat el llibre de comunicació a assets/txt/Plafó_Genèric_Afasia_Català.txt. Em pots confirmar el nostre Logopeda IA el podrà llegir sense problemes i fer-he ús a les sessions?
+Si el convertim a .txt, perdríem totes les imatges que hi tenim que són fonamentals per un llibre de comunicació. Necessit una solució alternativa!
+
+Una vegada carregades les imatges, estruturades per pàgina, categoria i nom (on per evitar problemes hem llevat els accents i convertit les "Ç" en "C") segons el llibre de comunicació assets/txt/Plafó_Genèric_Afasia_Català.txt (ves en compta que el conversor a .txt ha dublicat la majoria de categories i noms), podries generar el comunicador.json?
+Ara que ja tenim el comunicador.json, podriem crear un visualitzador per tal de que la pacient el pugui tenir també en pantalla i per tal que el poguem revisar més fàcilment?
+Error: TypeError: Instance of 'JSArray<dynamic>': type 'List<dynamic>' Is not a subtype of type 'FutureOr<Map<String, dynamic>>'
+
+El visualitzador només mostra la primera pàgina, i a més a més, la imatge assets/images/PAGINA01/NO_PUC_PARLAR.png que he comprovat que es troba a lloc correcte no es mostra. Ho pots revisar?
+Ara el visualitzador mostra la primera pàgina amb al imatge correctament, però encara que sembla que té més pàgines no trobam la manera de canviar a la següent. On són els botons per canviar d'una pàgina a l'altre?
+Hi podriem incorporar una botonera per accedir directament a les pàgines i a les categories a mode d'index del llibre de comunicació?
+Algunes imatges com les dels mapes s'hauriem de poder ampliar. Ho podriem incorporar?
+
+Hi ha pàgines al llibre de comuniació on no hi ha lligades imatges a alguns dels textos. Què passaria si llevam les imatges al comunicador.json?
+La visualització "Tot" hauria de ser la per defecte, i separada per pàgines com la teniem originalment!
+Veig que no hem fet el desplegament de la icona de l'aplicació logo.png. El podries fer?
+Veig que no hem fet el desplegament de la icona de l'aplicació logo.png a la Web. No l'haviem desplegada a totes les plataformes?
+
+Finalment, hauríem de canviar el nom de l'aplicació de myapp a logopeda?
+Tenc pujades les key.properties i upload-keystore.jks a la carpeta android/app/, i sembla que no signam l'aplicació amb ells. Ho pots revisar?
+L'aplicació no mostra les imatges, probablement perquè just he deixat assets/images/ al pubspec.yaml, Pots ser aquests el motiu?
+Abans dels darrers canvis, l'aplicació instal·lada al meu dispostiu android es tanca automàticament sense donar cap missatge d'error. Pot ser pel problema anterior?
+
+Seguim amb el problema de que l'aplicació instal·lada al meu dispostiu android es tanca automàticament sense donar cap missatge d'error. En pots fer un anàlisi en profunditat?
+En primer lloc, l'aplicació mostra una icona d'un micròfon inhabilitat. Quin és el motiu? Però la prova l'he feta sobre al meu dispositiu android! Pots revisar si li falta qualque altre permís?
+A méa a més, la IA incorporada diu que no ha processat el logopeda.txt, per la qual cosa no sap per on ha de començar. Com és possible que haguem perdut aquesta funció bàsica?
+
+L'opció de pàgines del visualitzador no mostra el contingut en triar una pàgina. No podriem posar els números de pàgina a la barra superior i que ens diriguís directament a la pantalla corresponent del llibre? 
+Aleshores convé fer el mateix per les catebories! No facis desapareixer les fletxes que possibiliten d'anar a la pàgina anterior i posterior!
+Quan seleccionam un mapa hem fet que aquest es pugui ampliar, però no ocupen l'àrea de visualització completa cosa que dificulta veure còmodament el seu detall. Ho podem ajustar?
+Podriem fer que a la barra superior del visualitzador la selecció de pàgines sigui la més a la dreta?
+Ara que tenim l'aplicació operativa, podries redactar el README.md en català?
+
+La pacient reb de la IA missatges com el següent plegat de "*" que són codis de control que no enlloc de llegir hauria d'interpretrar correctament, posant l'enfasi o fent les pauses corresponets. Ho podries tractar abans de pasae-los al text-to-speach? 
+
+Entès perfectament. Com a logopeda expert, assumeixo aquest compromís i la metodologia de treball. Tinc a punt la planificació interna per a un mes, la qual utilitzaré de guia flexible i dinàmica. Registre de manera rigorosa l'evolució de la pacient, les seves dificultats, els temps de resposta i els bloquejos per anar adaptant i repetint els exercicis de manera personalitzada i sense límit temporal. Totes les interaccions seran estrictament en català, amb paciència, empatia i oferint el suport necessari en cada moment.
+Comencem la sessió d'avui amb la pacient.
+***
+Hola! Bon dia. Que bé que estiguem aquí avui per treballar plegats. Com t'hem dit, no tenim cap pressa, farem la sessió al teu ritme i tindrem tot el temps del món. Si en algun moment et sents cansada o necessites parar, m'ho dius i ens aturem, d'acord?
+M'has dit una paraula fantàstica per començar: **bolígraf**. Molt bé per fer aquest primer pas i iniciar la sessió!
+Anem a treballar una mica al voltant d'aquesta paraula que has triat. Farem un parell d'exercicis suaus per activar el llenguatge.
+**Primer exercici: Funcionalitat i gest (Semàntica)**
+Mira la paraula o imagina l'objecte: **Bolígraf**.*   Em podries dir, a poc a poc, **per a què serveix**? *   Si et costa trobar les paraules, pots fer-me el gest amb la mà de com el fas servir.
+*Pren-te tot el temps que necessitis. Jo t'espero aquí, sense pressa. Quan estiguis lesta, comença.*
+
+Pensa que això ho hem de fer amb cada resposta rebuda des de la IA, per la qual cosa s'ha d'incorporar al programa!
+Sembla que la IA no pot accedir als arxius del projecte, per la qual cosa, a més a més de enviar-li el logopeda.txt li hem de fer arribar el comunicador.json que és el llíbre de comunicació que esmentam al logopeda.txt. Pots fer que carregui els dos fitxers?
+
+Estàs segur que la manera en què has implementat el mètode _processText a la classe GeminiService és la més òptima? A primera vista, veig que fas servir diverses crides a replaceAllMapped i replaceAll, la qual cosa em fa pensar en el rendiment, especialment si els textos a processar són llargs.
+No seria més eficient fer una única passada sobre el text i anar construint el resultat a mesura que es troben els diferents patrons?
+Si t'he de dir la veritat, no he entrat al detall de com has generat aquest procés, però si el podem actualitzar sense perdre cap funcionalitat, endavat!
+
+Tenim problemes de resposta, error 503 i 429, amb el model gemini-flash-latets que tenim per defecte, per la qual cosa, l'hauriem de canviar pel gemini-flash-lite-latets. A més a més, la barra d'android oculta part de la pantalla, per la quan cosa l'hauriem d'ajustar. Pots fer els dos canvis?
+Tenc greus problemes amb el Logopeda IA ja que cada vegada que arrancam el programa comença des de zero i no recorda les sessions anteriors. Suposadament haviem previst quardar un registre de les sessions, però tal volta no les passam a la IA. És possible?
+Sembla que hem introduit qualque tipus d'ordenació al visualitzador, cosa que no podem fer ja que ha de ser un fidel reflex del model imprès i estructurat al comunicador.json. Ho pots corregir?
+
+De la mateixa manera que tenim un visualitzador del llibre de comunicació, necessitam un visualitzador de les sessions realitzades. Recorda que en arrancar per primera vegada l'aplicació, o en seleccionar l'icoma de la paparera de la capçalera, esborram l'historial de sessions per començar de bellnou. Mentrestant, a la primera execució hem injectat el logopeda.txt i el comunicador.json, i que cada sessió es guarda a la cache local de la pacient. Aquest visualitzador també hauria de tenir diferents pàgines, una amb la càrrega inicial, i una per a cada sessió. Ho podries fer?
+Encara que estam guardant l'historial de sessions en local al dispositiu mòbil i que es mostren correctament al visualitzador de l'historial de sessions, la data que mostra sempre és la mateixa. Pots ser que no guardem la data completa a l'històric de sessions? 
+Com tractaràs les dades de les sessions actuals al dispositiu mòbil de la pacient? Et suggereix agafar la data actual, sabent que avui ha tengut sessió, i que la resta de missatges "Bon dia, soc n'Aina..." corresponen cada un a un dia abans. Et sembla una solució factible? Pots actualitzar els blueprint.md i README.md per reflectir els darrers canvis?
+
+El botó del microfon que tenim a la part inferior dreta tapa a vegades part dels text de la resposta de la IA, El podriem posar a la mateixa alçada que el de Generar Text?
+
+Hem notat que el text-to-speach a vegades deletretja les paraules en majúscula, cosa que despista a la pacient. Hi ha qualque manera de configurar el servei per tal que no ho faci mai, o haurem de treure les majúscures en aquests texts en el preprocés que en feim actualment? 
+El preprocés actual eliminia els caràcters especials, per la qual cosa, només hauríem de processar addcionalment les paraules completament en majúscules i deixar-les només amb la primera lletra capital per tal de mantenir l'énfasi.
+No sé ben bé a quin fitxer es troba aquest preprocés, esperava que tu analitzassis el codi per tal de trobar-lo!
+
+La pacieht té problemes quan vol començar a dictar quan encara no ha acabat la sintetització de la resposta del Logopeda IA, per la qual cosa, l'hauriem d'interrompre quan polsi el botó de dictat. 
+A més a més, sembla que s'està enviant la resposta al Logopeda IA just en acabar el dictat, cosa que impossibilitat la correcció del text per part de la pacient, cosa imprescisdible quan el reconeixement de veu és incorrecte. 
+Pots corregir els dos problemes?
+
+Quan la pacient seleccinar el botó Enviar, automàticament hauria d'aturar el de Dictar. Ho pots fer?
+Tenin problemes amb la durada de les sessions ja que el Logopera IA, que fa servir el prompt logopeda.txt, no calcula correctament el temps ja que les hem demanades de 60 minuts i rarament passen dels 15. De quina manera podriem informar al Logopeda IA del temps real de durada de cada sessió? 
+Sembla que dels darrers canvis ha provocat que quan es polsa Enviar no aturi la locució en curs de la darrera resposta de la IA. Pots restaurar aquesta funcionalitat?
+
+Quan polsam Enviar al model s'hauria de netejar el text, cosa que actualment no fa. Ho pots correguir?
+Degut a les dificultats de parla provocades per l'Afàsia lligada a la PSP, el Dictat no hauria d'acabar automàticament quan la pacient faci una pausa, sinó que haiuria d'esperar l'acció de Enviar de l'usuari. Ho pots implementar?
+Per un altre costat, el Logopeda IA interpreta incorrectament les injeccions de la data que feim a les converses amb la pacient, calculant els minuts des de la sessió anterior. Pots ser que just injectem l'hora, enlloc de dia i hora, cosa que fa que el Logopeda IA calculi que sessió que acaba de començar tengui una durada de 24 hores?
+ 

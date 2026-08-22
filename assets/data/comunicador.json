@@ -1,0 +1,1002 @@
+
+[
+  {
+    "page": 1,
+    "categories": [
+      {
+        "name": "PERSONAL",
+        "items": [
+          {
+            "text": "No puc parlar.",
+            "image": "assets/images/PAGINA01/NO_PUC_PARLAR.png"
+          },
+          {
+            "text": "Em dic Aina.",
+            "image": "assets/images/PAGINA01/EM_DIC_AINA.png"            
+          },
+          {
+            "text": "AINA",
+            "image": "assets/images/PAGINA01/AINA.jpg"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page": 2,
+    "categories": [
+      {
+        "name": "PERSONES",
+        "items": [
+          {
+            "text": "PERE",
+            "image": "assets/images/PAGINA02/PERSONES/PERE.jpg"
+          },
+          {
+            "text": "LAURA",
+            "image": "assets/images/PAGINA02/PERSONES/LAURA.jpg"
+          },
+          {
+            "text": "TERESA",
+            "image": "assets/images/PAGINA02/PERSONES/TERESA.jpg"
+          },
+          {
+            "text": "PARE",
+            "image": "assets/images/PAGINA02/PERSONES/PARE.jpg"
+          },
+          {
+            "text": "MARE",
+            "image": "assets/images/PAGINA02/PERSONES/MARE.jpg"
+          },
+          {
+            "text": "PADRINA",
+            "image": "assets/images/PAGINA02/PERSONES/PADRINA.jpg"
+          },
+          {
+            "text": "MIQUEL GERMA",
+            "image": "assets/images/PAGINA02/PERSONES/MIQUEL_GERMA.jpg"
+          },
+          {
+            "text": "JULIA",
+            "image": "assets/images/PAGINA02/PERSONES/JULIA.jpg"
+          },
+          {
+            "text": "MARC",
+            "image": "assets/images/PAGINA02/PERSONES/MARC.jpg"
+          },
+          {
+            "text": "XAVI",
+            "image": "assets/images/PAGINA02/PERSONES/XAVI.jpg"
+          },
+          {
+            "text": "MIQUELET",
+            "image": "assets/images/PAGINA02/PERSONES/MIQUELET.jpg"
+          },
+          {
+            "text": "ANTONI",
+            "image": "assets/images/PAGINA02/PERSONES/ANTONI.jpg"
+          },
+          {
+            "text": "MARGARITA",
+            "image": "assets/images/PAGINA02/PERSONES/MARGARITA.jpg"
+          },
+          {
+            "text": "MIQUEL CUNYAT",
+            "image": "assets/images/PAGINA02/PERSONES/MIQUEL_CUNYAT.jpg"
+          },
+          {
+            "text": "ELISABET",
+            "image": "assets/images/PAGINA02/PERSONES/ELISABET.jpg"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page": 3,
+    "categories": [
+      {
+        "name": "PERSONES",
+        "items": [
+          {"text": "JO","image": "assets/images/PAGINA03/PERSONES/JO.png"},
+          {"text": "TU","image": "assets/images/PAGINA03/PERSONES/TU.png"},
+          {"text": "HOME","image": "assets/images/PAGINA03/PERSONES/HOME.png"},
+          {"text": "DONA","image": "assets/images/PAGINA03/PERSONES/DONA.png"},
+          {"text": "NIN","image": "assets/images/PAGINA03/PERSONES/NIN.png"},
+          {"text": "NINA","image": "assets/images/PAGINA03/PERSONES/NINA.png"},
+
+          {"text": "MARE","image": "assets/images/PAGINA03/PERSONES/MARE.png"},
+          {"text": "PARE","image": "assets/images/PAGINA03/PERSONES/PARE.png"},
+          {"text": "FILL","image": "assets/images/PAGINA03/PERSONES/FILL.png"},
+          {"text": "FILLA","image": "assets/images/PAGINA03/PERSONES/FILLA.png"},
+          {"text": "GERMA","image": "assets/images/PAGINA03/PERSONES/GERMA.png"},
+          {"text": "GERMANA","image": "assets/images/PAGINA03/PERSONES/GERMANA.png"},
+
+          {"text": "PADRI","image": "assets/images/PAGINA03/PERSONES/PADRI.png"},
+          {"text": "PADRINA","image": "assets/images/PAGINA03/PERSONES/PADRINA.png"},
+          {"text": "NET","image": "assets/images/PAGINA03/PERSONES/NET.png"},
+          {"text": "NETA","image": "assets/images/PAGINA03/PERSONES/NETA.png"},
+          {"text": "FAMILIA","image": "assets/images/PAGINA03/PERSONES/FAMILIA.png"},
+          {"text": "AMICS","image": "assets/images/PAGINA03/PERSONES/AMICS.png"},
+          {"text": "VEINAT","image": "assets/images/PAGINA03/PERSONES/VEINAT.png"},
+
+          {"text": "FISIOTERAPEUTA","image": "assets/images/PAGINA03/PERSONES/FISIOTERAPEUTA.png"},
+          {"text": "LOGOPEDA","image": "assets/images/PAGINA03/PERSONES/LOGOPEDA.png"},
+          {"text": "METGE","image": "assets/images/PAGINA03/PERSONES/METGE.png"},
+          {"text": "INFERMER","image": "assets/images/PAGINA03/PERSONES/INFERMER.png"},
+          {"text": "DENTISTA","image": "assets/images/PAGINA03/PERSONES/DENTISTA.png"},
+          {"text": "PODOLEG","image": "assets/images/PAGINA03/PERSONES/PODOLEG.png"},
+
+          {"text": "PERRUQUERA","image": "assets/images/PAGINA03/PERSONES/PERRUQUERA.png"},
+          {"text": "CUIDADORA","image": "assets/images/PAGINA03/PERSONES/CUIDADORA.png"},
+          {"text": "ACTOR","image": "assets/images/PAGINA03/PERSONES/ACTOR.png"},
+          {"text": "CANTANT","image": "assets/images/PAGINA03/PERSONES/CANTANT.png"},
+          {"text": "CUINERA","image": "assets/images/PAGINA03/PERSONES/CUINERA.png"},
+          {"text": "POLICIA","image": "assets/images/PAGINA03/PERSONES/POLICIA.png"}
+        ]
+      }
+    ]
+  },
+  {
+    "page": 4,
+    "categories": [
+      {
+        "name": "EM FA MAL ...",
+        "items": [
+          {"text": "EM FA MAL GRAUS","image": "assets/images/PAGINA04/EM_FA_MAL_GRAUS.png"},
+          {"text": "EM FA MAL DARRERA","image": "assets/images/PAGINA04/EM_FA_MAL_DARRERA.png"},
+          {"text": "EM FA MAL DAVANT","image": "assets/images/PAGINA04/EM_FA_MAL_DAVANT.png"}
+        ]
+      },
+      {
+        "name": "CALENDARI",
+        "items": [
+          {"text": "CALENDARI","image": "assets/images/PAGINA04/CALENDARI.png"}
+        ]
+      }
+    ]
+  },
+  {
+    "page": 5,
+    "categories": [
+      {
+        "name": "TEMPS",
+        "items": [
+          {"text": "RELLOTGE","image": "assets/images/PAGINA05/TEMPS/RELLOTGE.png"},
+
+          {"text": "MATI","image": "assets/images/PAGINA05/TEMPS/MATI.png"},
+          {"text": "MIGDIA","image": "assets/images/PAGINA05/TEMPS/MIGDIA.png"},
+          {"text": "VESPRE","image": "assets/images/PAGINA05/TEMPS/VESPRE.png"},
+          {"text": "NIT","image": "assets/images/PAGINA05/TEMPS/NIT.png"},
+
+          {"text": "AHIR","image": "assets/images/PAGINA05/TEMPS/AHIR.png"},
+          {"text": "AVUI","image": "assets/images/PAGINA05/TEMPS/AVUI.png"},
+          {"text": "DEMA","image": "assets/images/PAGINA05/TEMPS/DEMA.png"}
+        ]
+      },
+      {
+        "name": "DIES",
+        "items": [
+          {"text": "DILLUNS","image": "assets/images/PAGINA05/DIES/DILLUNS.png"},
+          {"text": "DIMARTS","image": "assets/images/PAGINA05/DIES/DIMARTS.png"},
+          {"text": "DIMECRES","image": "assets/images/PAGINA05/DIES/DIMECRES.png"},
+          {"text": "DIJOUS","image": "assets/images/PAGINA05/DIES/DIJOUS.png"},
+          {"text": "DIVENDRES","image": "assets/images/PAGINA05/DIES/DIVENDRES.png"},
+
+          {"text": "DISSABTE","image": "assets/images/PAGINA05/DIES/DISSABTE.png"},
+          {"text": "DIUMENGE","image": "assets/images/PAGINA05/DIES/DIUMENGE.png"}
+        ]
+      },
+      {
+        "name": "ESTACIONS",
+        "items": [
+          {"text": "HIVERN","image": "assets/images/PAGINA05/ESTACIONS/HIVERN.png"},
+          {"text": "PRIMAVERA","image": "assets/images/PAGINA05/ESTACIONS/PRIMAVERA.png"},
+          {"text": "ESTIU","image": "assets/images/PAGINA05/ESTACIONS/ESTIU.png"},
+          {"text": "TARDOR","image": "assets/images/PAGINA05/ESTACIONS/TARDOR.png"}
+        ]
+      },
+      {
+        "name": "MESOS",
+        "items": [
+          {"text": "GENER","image": "assets/images/PAGINA05/MESOS/GENER.png"},
+          {"text": "FEBRER","image": "assets/images/PAGINA05/MESOS/FEBRER.png"},
+          {"text": "MARC","image": "assets/images/PAGINA05/MESOS/MARC.png"},
+          {"text": "ABRIL","image": "assets/images/PAGINA05/MESOS/ABRIL.png"},
+          {"text": "MAIG","image": "assets/images/PAGINA05/MESOS/MAIG.png"},
+          {"text": "JUNY","image": "assets/images/PAGINA05/MESOS/JUNY.png"},
+
+          {"text": "JULIOL","image": "assets/images/PAGINA05/MESOS/JULIOL.png"},
+          {"text": "AGOST","image": "assets/images/PAGINA05/MESOS/AGOST.png"},
+          {"text": "SETEMBRE","image": "assets/images/PAGINA05/MESOS/SETEMBRE.png"},
+          {"text": "OCTUBRE","image": "assets/images/PAGINA05/MESOS/OCTUBRE.png"},
+          {"text": "NOVEMBRE","image": "assets/images/PAGINA05/MESOS/NOVEMBRE.png"},
+          {"text": "DESEMBRE","image": "assets/images/PAGINA05/MESOS/DESEMBRE.png"}
+        ]
+      }
+    ]
+  },
+  {
+    "page": 6,
+    "categories": [
+      {
+        "name": "COLORS",
+        "items": [
+          {"text": "BLANC","image": "assets/images/PAGINA06/COLORS/BLANC.png"},
+          {"text": "CRU","image": "assets/images/PAGINA06/COLORS/CRU.png"},
+          {"text": "GROC","image": "assets/images/PAGINA06/COLORS/GROC.png"},
+          {"text": "DAURAT","image": "assets/images/PAGINA06/COLORS/DAURAT.png"},
+          {"text": "TARONJA","image": "assets/images/PAGINA06/COLORS/TARONJA.png"},
+          {"text": "VERMELL","image": "assets/images/PAGINA06/COLORS/VERMELL.png"},
+
+          {"text": "GRANAT","image": "assets/images/PAGINA06/COLORS/GRANAT.png"},
+          {"text": "ROSA","image": "assets/images/PAGINA06/COLORS/ROSA.png"},
+          {"text": "MORAT","image": "assets/images/PAGINA06/COLORS/MORAT.png"},
+          {"text": "BLAU","image": "assets/images/PAGINA06/COLORS/BLAU.png"},
+          {"text": "VERD","image": "assets/images/PAGINA06/COLORS/VERD.png"},
+          {"text": "MARRO","image": "assets/images/PAGINA06/COLORS/MARRO.png"},
+
+          {"text": "GRIS","image": "assets/images/PAGINA06/COLORS/GRIS.png"},
+          {"text": "PLATEJAT","image": "assets/images/PAGINA06/COLORS/PLATEJAT.png"},
+          {"text": "NEGRE","image": "assets/images/PAGINA06/COLORS/NEGRE.png"},
+
+          {"text": "CLAR","image": "assets/images/PAGINA06/COLORS/CLAR.png"},
+          {"text": "FOSC","image": "assets/images/PAGINA06/COLORS/FOSC.png"},
+
+          {"text": "QUADRES","image": "assets/images/PAGINA06/COLORS/QUADRES.png"},
+          {"text": "RATLLES","image": "assets/images/PAGINA06/COLORS/RATLLES.png"},
+          {"text": "TOPOS","image": "assets/images/PAGINA06/COLORS/TOPOS.png"},
+          {"text": "ESTAMPAT","image": "assets/images/PAGINA06/COLORS/ESTAMPAT.png"}
+        ]
+      },
+      {
+        "name": "ROBA",
+        "items": [
+          {"text": "CAMIA","image": "assets/images/PAGINA06/ROBA/CAMIA.png"},
+          {"text": "CAMISETA","image": "assets/images/PAGINA06/ROBA/CAMISETA.jpg"},
+          {"text": "JERSEI","image": "assets/images/PAGINA06/ROBA/JERSEI.png"},
+          {"text": "JAQUETA","image": "assets/images/PAGINA06/ROBA/JAQUETA.jpg"},
+          {"text": "ABRIC","image": "assets/images/PAGINA06/ROBA/ABRIC.jpg"},
+          {"text": "BANYADOR H","image": "assets/images/PAGINA06/ROBA/BANYADOR_H.png"},
+          {"text": "BANYADOR D","image": "assets/images/PAGINA06/ROBA/BANYADOR_D.png"},
+
+          {"text": "XANDALL","image": "assets/images/PAGINA06/ROBA/XANDALL.png"},
+          {"text": "FALDILLA","image": "assets/images/PAGINA06/ROBA/FALDILLA.jpg"},
+          {"text": "VESTIT","image": "assets/images/PAGINA06/ROBA/VESTIT.png"},
+          {"text": "CALCONS","image": "assets/images/PAGINA06/ROBA/CALCONS.jpg"},
+          {"text": "IMPERMEABLE","image": "assets/images/PAGINA06/ROBA/IMPERMEABLE.png"},
+          {"text": "BIKINI","image": "assets/images/PAGINA06/ROBA/BIKINI.png"},
+          
+          {"text": "SABATILLES","image": "assets/images/PAGINA06/ROBA/SABATILLES.jpg"},
+          {"text": "SABATES DE TACO","image": "assets/images/PAGINA06/ROBA/SABATES_DE_TACO.png"},
+          {"text": "SABATES","image": "assets/images/PAGINA06/ROBA/SABATES.png"},
+          {"text": "VAMBES","image": "assets/images/PAGINA06/ROBA/VAMBES.png"},
+          {"text": "SANDALIES","image": "assets/images/PAGINA06/ROBA/SANDALIES.png"},
+          {"text": "GORRO","image": "assets/images/PAGINA06/ROBA/GORRO.png"},
+
+          {"text": "PIJAMA","image": "assets/images/PAGINA06/ROBA/PIJAMA.png"},
+          {"text": "MITJA","image": "assets/images/PAGINA06/ROBA/MITJA.png"},
+          {"text": "CALCETINS","image": "assets/images/PAGINA06/ROBA/CALCETINS.png"},
+          {"text": "BRAGUES","image": "assets/images/PAGINA06/ROBA/BRAGUES.png"},
+          {"text": "CALCONS BANCS","image": "assets/images/PAGINA06/ROBA/CALCONS_BANCS.png"},
+          {"text": "SOSTENIDOR","image": "assets/images/PAGINA06/ROBA/SOSTENIDOR.png"},
+          {"text": "TOVALLOLA","image": "assets/images/PAGINA06/ROBA/TOVALLOLA.png"}
+        ]
+      }
+    ]
+  },
+  {
+    "page": 7,
+    "categories": [
+      {
+        "name": "COMPLEMENTS",
+        "items": [
+          {"text": "ANELL","image": "assets/images/PAGINA07/COMPLEMENTS/ANELL.png"},
+          {"text": "COLLAR","image": "assets/images/PAGINA07/COMPLEMENTS/COLLAR.png"},
+          {"text": "POLSERA","image": "assets/images/PAGINA07/COMPLEMENTS/POLSERA.png"},
+          {"text": "ARRECADES","image": "assets/images/PAGINA07/COMPLEMENTS/ARRECADES.png"},
+          {"text": "RELLOTGE","image": "assets/images/PAGINA07/COMPLEMENTS/RELLOTGE.png"},
+          {"text": "CORBATA","image": "assets/images/PAGINA07/COMPLEMENTS/CORBATA.png"},
+
+          {"text": "BUFANDA","image": "assets/images/PAGINA07/COMPLEMENTS/BUFANDA.png"},
+          {"text": "MOCADOR","image": "assets/images/PAGINA07/COMPLEMENTS/MOCADOR.png"},
+          {"text": "GUANTS","image": "assets/images/PAGINA07/COMPLEMENTS/GUANTS.png"},
+          {"text": "GORRO","image": "assets/images/PAGINA07/COMPLEMENTS/GORRO.png"},
+          {"text": "CINTURÓ","image": "assets/images/PAGINA07/COMPLEMENTS/CINTURO.png"},
+          {"text": "ULLERES","image": "assets/images/PAGINA07/COMPLEMENTS/ULLERES.png"},
+
+          {"text": "BOLSO","image": "assets/images/PAGINA07/COMPLEMENTS/BOLSO.png"},
+          {"text": "MONEDER","image": "assets/images/PAGINA07/COMPLEMENTS/MONEDER.png"},
+          {"text": "PARAIGUA","image": "assets/images/PAGINA07/COMPLEMENTS/PARAIGUA.png"},
+          {"text": "ULLERES DE SOL","image": "assets/images/PAGINA07/COMPLEMENTS/ULLERES_DE_SOL.png"},
+          {"text": "CAPELL","image": "assets/images/PAGINA07/COMPLEMENTS/CAPELL.png"},
+          {"text": "GORRA","image": "assets/images/PAGINA07/COMPLEMENTS/GORRA.jpg"}
+        ]
+      },
+      {
+        "name": "ESTETICA",
+        "items": [
+          {"text": "NECESSER","image": "assets/images/PAGINA07/ESTETICA/NECESSER.png"},
+          {"text": "DESODORANT","image": "assets/images/PAGINA07/ESTETICA/DESODORANT.png"},
+          {"text": "LACA","image": "assets/images/PAGINA07/ESTETICA/LACA.png"},
+          {"text": "PINTA","image": "assets/images/PAGINA07/ESTETICA/PINTA.png"},
+          {"text": "CEPILLO","image": "assets/images/PAGINA07/ESTETICA/CEPILLO.png"},
+          {"text": "AFAITAR-SE","image": "assets/images/PAGINA07/ESTETICA/AFAITAR_SE.png"},
+
+          {"text": "CREMA D’AFAITAR","image": "assets/images/PAGINA07/ESTETICA/CREMA_AFAITAR.png"},
+          {"text": "COLONIA","image": "assets/images/PAGINA07/ESTETICA/COLONIA.png"},
+          {"text": "MAQUILLATGE","image": "assets/images/PAGINA07/ESTETICA/MAQUILLATGE.png"},
+          {"text": "OMBRA D'ULLS","image": "assets/images/PAGINA07/ESTETICA/OMBRA_ULLS.png"},
+          {"text": "RIMEL","image": "assets/images/PAGINA07/ESTETICA/RIMEL.png"},
+          {"text": "PINTALLAVIS","image": "assets/images/PAGINA07/ESTETICA/PINTALLAVIS.png"},
+
+          {"text": "PINTAUNGLES","image": "assets/images/PAGINA07/ESTETICA/PINTAUNGLES.png"},
+          {"text": "CREMA","image": "assets/images/PAGINA07/ESTETICA/CREMA.png"},
+          {"text": "CEPILLO DENTS","image": "assets/images/PAGINA07/ESTETICA/CEPILLO_DENTS.png"},
+          {"text": "PASTA DE DENTS","image": "assets/images/PAGINA07/ESTETICA/PASTA_DENTS.png"},
+          {"text": "MIRALL","image": "assets/images/PAGINA07/ESTETICA/MIRALL.png"},
+          {"text": "TALLAR UNGLES","image": "assets/images/PAGINA07/ESTETICA/TALLAR_UNGLES.png"},
+ 
+          {"text": "PERRUQUERIA","image": "assets/images/PAGINA07/ESTETICA/PERRUQUERIA.png"},
+          {"text": "PENTINAR","image": "assets/images/PAGINA07/ESTETICA/PENTINAR.png"},
+          {"text": "ASSECAR","image": "assets/images/PAGINA07/ESTETICA/ASSECAR.png"},
+          {"text": "RULOS","image": "assets/images/PAGINA07/ESTETICA/RULOS.png"},
+          {"text": "TALLAR CABELL","image": "assets/images/PAGINA07/ESTETICA/TALLAR_CABELL.png"},
+          {"text": "ASSECADOR","image": "assets/images/PAGINA07/ESTETICA/ASSECADOR.png"}
+        ]
+      }
+    ]
+  },
+  {
+    "page": 8,
+    "categories": [
+      {
+        "name": "LLOCS",
+        "items": [
+          {"text": "CASA","image": "assets/images/PAGINA08/LLOCS/CASA.png"},
+          {"text": "DORMITORI","image": "assets/images/PAGINA08/LLOCS/DORMITORI.png"},
+          {"text": "SALO","image": "assets/images/PAGINA08/LLOCS/SALO.png"},
+          {"text": "LAVABO","image": "assets/images/PAGINA08/LLOCS/LAVABO.png"},
+          {"text": "CUINA","image": "assets/images/PAGINA08/LLOCS/CUINA.png"},
+          {"text": "BALCONADA","image": "assets/images/PAGINA08/LLOCS/BALCONADA.png"},
+
+          {"text": "CINEMA","image": "assets/images/PAGINA08/LLOCS/CINEMA.png"},
+          {"text": "TEATRE","image": "assets/images/PAGINA08/LLOCS/TEATRE.png"},
+          {"text": "CIRC","image": "assets/images/PAGINA08/LLOCS/CIRC.png"},
+          {"text": "PARC","image": "assets/images/PAGINA08/LLOCS/PARC.png"},
+          {"text": "ZOO","image": "assets/images/PAGINA08/LLOCS/ZOO.png"},
+          {"text": "CARRER","image": "assets/images/PAGINA08/LLOCS/CARRER.png"},
+
+          {"text": "PLACA","image": "assets/images/PAGINA08/LLOCS/PLACA.png"},
+          {"text": "POBLE","image": "assets/images/PAGINA08/LLOCS/POBLE.png"},
+          {"text": "CIUTAT","image": "assets/images/PAGINA08/LLOCS/CIUTAT.png"},
+          {"text": "AEROPORT","image": "assets/images/PAGINA08/LLOCS/AEROPORT.png"},
+          {"text": "ESTACIO","image": "assets/images/PAGINA08/LLOCS/ESTACIO.png"},
+          {"text": "HOTEL","image": "assets/images/PAGINA08/LLOCS/HOTEL.png"},
+
+          {"text": "BOTIGA","image": "assets/images/PAGINA08/LLOCS/BOTIGA.png"},
+          {"text": "FORN","image": "assets/images/PAGINA08/LLOCS/FORN.png"},
+          {"text": "MERCAT","image": "assets/images/PAGINA08/LLOCS/MERCAT.png"},
+          {"text": "PERRUQUERIA","image": "assets/images/PAGINA08/LLOCS/PERRUQUERIA.png"},
+          {"text": "FARMACIA","image": "assets/images/PAGINA08/LLOCS/FARMACIA.png"},
+          {"text": "HOSPITAL","image": "assets/images/PAGINA08/LLOCS/HOSPITAL.png"},
+
+          {"text": "ESGLESIA","image": "assets/images/PAGINA08/LLOCS/ESGLESIA.png"},
+          {"text": "CORREUS","image": "assets/images/PAGINA08/LLOCS/CORREUS.png"},
+          {"text": "BIBLIOTECA","image": "assets/images/PAGINA08/LLOCS/BIBLIOTECA.png"},
+          {"text": "MUSEU","image": "assets/images/PAGINA08/LLOCS/MUSEU.png"},
+          {"text": "BAR","image": "assets/images/PAGINA08/LLOCS/BAR.png"},
+          {"text": "RESTAURANT","image": "assets/images/PAGINA08/LLOCS/RESTAURANT.png"},
+
+          {"text": "PIZZERIA","image": "assets/images/PAGINA08/LLOCS/PIZZERIA.png"},
+          {"text": "PARKING","image": "assets/images/PAGINA08/LLOCS/PARKING.png"},
+          {"text": "COMISSARIA","image": "assets/images/PAGINA08/LLOCS/COMISSARIA.png"},
+          {"text": "PISCINA","image": "assets/images/PAGINA08/LLOCS/PISCINA.png"},
+          {"text": "PLATJA","image": "assets/images/PAGINA08/LLOCS/PLATJA.png"},
+          {"text": "MUNTANYA","image": "assets/images/PAGINA08/LLOCS/MUNTANYA.png"}
+        ]
+      }
+    ]
+  },
+  {
+    "page": 9,
+    "categories": [
+      {
+        "name": "MAPES",
+        "items": [
+          {"text": "MALLORCA","image": "assets/images/PAGINA09/MAPES/MALLORCA.jpg"},
+          {"text": "ESPANYA","image": "assets/images/PAGINA09/MAPES/ESPANYA.png"},
+          {"text": "EUROPA","image": "assets/images/PAGINA10/MAPES/EUROPA.jpg"}
+        ]
+      }
+    ]
+  },
+  {
+    "page": 10,
+    "categories": [
+      {
+        "name": "TRANSPORT",
+        "items": [
+          {"text": "AUTOBUS","image": "assets/images/PAGINA10/TRANSPORT/AUTOBUS.png"},
+          {"text": "METRO","image": "assets/images/PAGINA10/TRANSPORT/METRO.png"},
+          {"text": "TRAMVIA","image": "assets/images/PAGINA10/TRANSPORT/TRAMVIA.png"},
+          {"text": "TREN","image": "assets/images/PAGINA10/TRANSPORT/TREN.png"},
+          {"text": "COTXE","image": "assets/images/PAGINA10/TRANSPORT/COTXE.png"},
+          {"text": "FURGONETA","image": "assets/images/PAGINA10/TRANSPORT/FURGONETA.png"},
+
+          {"text": "TOT TERRENY","image": "assets/images/PAGINA10/TRANSPORT/TOT_TERRENY.png"},
+          {"text": "CAMIO","image": "assets/images/PAGINA10/TRANSPORT/CAMIO.png"},
+          {"text": "TAXI","image": "assets/images/PAGINA10/TRANSPORT/TAXI.png"},
+          {"text": "MOTO","image": "assets/images/PAGINA10/TRANSPORT/MOTO.png"},
+          {"text": "BICICLETA","image": "assets/images/PAGINA10/TRANSPORT/BICICLETA.png"},
+          {"text": "AVIO","image": "assets/images/PAGINA10/TRANSPORT/AVIO.png"},
+ 
+          {"text": "VAIXELL","image": "assets/images/PAGINA10/TRANSPORT/VAIXELL.png"},
+          {"text": "AMBULANCIA","image": "assets/images/PAGINA10/TRANSPORT/AMBULANCIA.png"},
+          {"text": "EMT PALMA","image": "assets/images/PAGINA11/TRANSPORT/EMT_PALMA.png"}
+        ]
+      }
+    ]
+  },
+  {
+    "page": 11,
+    "categories": [
+      {
+        "name": "VERBS",
+        "items": [
+          {"text": "OBRIR","image": "assets/images/PAGINA11/VERBS/OBRIR.png"},
+          {"text": "TANCAR","image": "assets/images/PAGINA11/VERBS/TANCAR.png"},
+          {"text": "CUINAR","image": "assets/images/PAGINA11/VERBS/CUINAR.png"},
+          {"text": "MENJAR","image": "assets/images/PAGINA11/VERBS/MENJAR.png"},
+          {"text": "BEURE","image": "assets/images/PAGINA11/VERBS/BEURE.png"},
+          {"text": "CAMINAR","image": "assets/images/PAGINA11/VERBS/CAMINAR.png"},
+
+          {"text": "CORRER","image": "assets/images/PAGINA11/VERBS/CORRER.png"},
+          {"text": "PASSEJAR","image": "assets/images/PAGINA11/VERBS/PASSEJAR.png"},
+          {"text": "BALLAR","image": "assets/images/PAGINA11/VERBS/BALLAR.png"},
+          {"text": "DESCANSAR","image": "assets/images/PAGINA11/VERBS/DESCANSAR.png"},
+          {"text": "DORMIR","image": "assets/images/PAGINA11/VERBS/DORMIR.png"},
+          {"text": "JUGAR","image": "assets/images/PAGINA11/VERBS/JUGAR.png"},
+
+          {"text": "TALLAR","image": "assets/images/PAGINA11/VERBS/TALLAR.png"},
+          {"text": "LLEGIR","image": "assets/images/PAGINA11/VERBS/LLEGIR.png"},
+          {"text": "PINTAR","image": "assets/images/PAGINA11/VERBS/PINTAR.png"},
+          {"text": "COSIR","image": "assets/images/PAGINA11/VERBS/COSIR.png"},
+          {"text": "ESCRIURE","image": "assets/images/PAGINA11/VERBS/ESCRIURE.png"},
+          {"text": "DIBUIXAR","image": "assets/images/PAGINA11/VERBS/DIBUIXAR.png"},
+
+          {"text": "OLORAR","image": "assets/images/PAGINA11/VERBS/OLORAR.png"},
+          {"text": "PLANTAR","image": "assets/images/PAGINA11/VERBS/PLANTAR.png"},
+          {"text": "REGAR","image": "assets/images/PAGINA11/VERBS/REGAR.png"},
+          {"text": "COMPRAR","image": "assets/images/PAGINA11/VERBS/COMPRAR.png"},
+          {"text": "PAGAR","image": "assets/images/PAGINA11/VERBS/PAGAR.png"},
+          {"text": "VENDRE","image": "assets/images/PAGINA11/VERBS/VENDRE.png"}
+        ]
+      }
+    ]
+  },
+  {
+    "page": 12,
+    "categories": [
+      {
+        "name": "VERBS",
+        "items": [
+          {"text": "AGAFAR","image": "assets/images/PAGINA12/VERBS/AGAFAR.png"},
+          {"text": "GUARDAR","image": "assets/images/PAGINA12/VERBS/GUARDAR.png"},
+          {"text": "DONAR","image": "assets/images/PAGINA12/VERBS/DONAR.png"},
+          {"text": "AMAGAR","image": "assets/images/PAGINA12/VERBS/AMAGAR.png"},
+          {"text": "DEMANAR","image": "assets/images/PAGINA12/VERBS/DEMANAR.png"},
+          {"text": "AJUDAR","image": "assets/images/PAGINA12/VERBS/AJUDAR.png"},
+
+          {"text": "MIRAR","image": "assets/images/PAGINA12/VERBS/MIRAR.png"},
+          {"text": "VEURE LA TELE","image": "assets/images/PAGINA12/VERBS/VEURE_LA_TELE.png"},
+          {"text": "CANTAR","image": "assets/images/PAGINA12/VERBS/CANTAR.png"},
+          {"text": "ESPERAR","image": "assets/images/PAGINA12/VERBS/ESPERAR.png"},
+          {"text": "CAURE","image": "assets/images/PAGINA12/VERBS/CAURE.png"},
+          {"text": "PEGAR","image": "assets/images/PAGINA12/VERBS/PEGAR.png"},
+
+          {"text": "ESTIRAR","image": "assets/images/PAGINA12/VERBS/ESTIRAR.png"},
+          {"text": "OBLIDAR","image": "assets/images/PAGINA12/VERBS/OBLIDAR.png"},
+          {"text": "RECORDAR","image": "assets/images/PAGINA12/VERBS/RECORDAR.png"},
+          {"text": "MOLESTAR","image": "assets/images/PAGINA12/VERBS/MOLESTAR.png"},
+          {"text": "AGRADAR","image": "assets/images/PAGINA12/VERBS/AGRADAR.png"},
+          {"text": "RIURE","image": "assets/images/PAGINA12/VERBS/RIURE.png"},
+
+          {"text": "PLORAR","image": "assets/images/PAGINA12/VERBS/PLORAR.png"},
+          {"text": "ALUCINAR","image": "assets/images/PAGINA12/VERBS/ALUCINAR.png"},
+          {"text": "NECESSITAR","image": "assets/images/PAGINA12/VERBS/NECESSITAR.png"},
+          {"text": "SABER","image": "assets/images/PAGINA12/VERBS/SABER.png"},
+          {"text": "ROMPRE","image": "assets/images/PAGINA12/VERBS/ROMPRE.png"},
+          {"text": "ARREGLAR","image": "assets/images/PAGINA12/VERBS/ARREGLAR.png"},
+
+          {"text": "VESTIR","image": "assets/images/PAGINA12/VERBS/VESTIR.png"},
+          {"text": "DESVESTIR","image": "assets/images/PAGINA12/VERBS/DESVESTIR.png"},
+          {"text": "FER PIPI","image": "assets/images/PAGINA12/VERBS/FER_PIPI.png"},
+          {"text": "FER CACA","image": "assets/images/PAGINA12/VERBS/FER_CACA.png"},
+          {"text": "RENTAR","image": "assets/images/PAGINA12/VERBS/RENTAR.png"},
+          {"text": "PENTINAR","image": "assets/images/PAGINA12/VERBS/PENTINAR.png"},
+
+          {"text": "RENTAR LES DENTS","image": "assets/images/PAGINA12/VERBS/RENTAR_LES_DENTS.png"},
+          {"text": "BANYAR","image": "assets/images/PAGINA12/VERBS/BANYAR.png"},
+          {"text": "SALUDAR","image": "assets/images/PAGINA12/VERBS/SALUDAR.png"},
+          {"text": "XERRAR","image": "assets/images/PAGINA12/VERBS/XERRAR.png"},
+          {"text": "ESCOLTAR","image": "assets/images/PAGINA12/VERBS/ESCOLTAR.png"},
+          {"text": "CRIDAR","image": "assets/images/PAGINA12/VERBS/CRIDAR.png"},
+
+          {"text": "TELEFONAR","image": "assets/images/PAGINA12/VERBS/TELEFONAR.png"},
+          {"text": "UNA BESADA","image": "assets/images/PAGINA12/VERBS/UNA_BESADA.png"},
+          {"text": "ESTIMAR","image": "assets/images/PAGINA12/VERBS/ESTIMAR.png"},
+          {"text": "ANAR","image": "assets/images/PAGINA12/VERBS/ANAR.png"},
+          {"text": "TORNAR","image": "assets/images/PAGINA12/VERBS/TORNAR.png"},
+          {"text": "AIXECAR","image": "assets/images/PAGINA12/VERBS/AIXECAR.png"},
+
+          {"text": "SEURE","image": "assets/images/PAGINA12/VERBS/SEURE.png"},
+          {"text": "TOMBAR","image": "assets/images/PAGINA12/VERBS/TOMBAR.png"},
+          {"text": "PUJAR","image": "assets/images/PAGINA12/VERBS/PUJAR.png"},
+          {"text": "BAIXAR","image": "assets/images/PAGINA12/VERBS/BAIXAR.png"},
+          {"text": "ENTRAR","image": "assets/images/PAGINA12/VERBS/ENTRAR.png"},
+          {"text": "SORTIR","image": "assets/images/PAGINA12/VERBS/SORTIR.png"}
+        ]
+      }
+    ]
+  },
+  {
+    "page": 13,
+    "categories": [
+      {
+        "name": "VERBS",
+        "items": [
+          {"text": "GUANYAR","image": "assets/images/PAGINA13/VERBS/GUANYAR.png"},
+          {"text": "PERDRE","image": "assets/images/PAGINA13/VERBS/PERDRE.png"},
+          {"text": "INVITAR","image": "assets/images/PAGINA13/VERBS/INVITAR.png"},
+          {"text": "POSAR","image": "assets/images/PAGINA13/VERBS/POSAR.png"},
+          {"text": "TENIR","image": "assets/images/PAGINA13/VERBS/TENIR.png"},
+          {"text": "NETEJAR","image": "assets/images/PAGINA13/VERBS/NETEJAR.png"},
+
+          {"text": "SECAR","image": "assets/images/PAGINA13/VERBS/SECAR.png"},
+          {"text": "BANYAR","image": "assets/images/PAGINA13/VERBS/BANYAR.png"},
+          {"text": "BERENAR H","image": "assets/images/PAGINA13/MENJAR/BERENAR_H.png"}
+        ]
+      },
+      {
+        "name": "MENJAR",
+        "items": [
+          {"text": "BERENAR M","image": "assets/images/PAGINA13/MENJAR/BERENAR_M.png"},
+          {"text": "DINAR","image": "assets/images/PAGINA13/MENJAR/DINAR.png"},
+          {"text": "SOPAR","image": "assets/images/PAGINA13/MENJAR/SOPAR.png"},
+
+          {"text": "AIGUA","image": "assets/images/PAGINA13/MENJAR/AIGUA.png"},
+          {"text": "GASOSA","image": "assets/images/PAGINA13/MENJAR/GASOSA.png"},
+          {"text": "LLET","image": "assets/images/PAGINA13/MENJAR/LLET.png"},
+          {"text": "SUC","image": "assets/images/PAGINA13/MENJAR/SUC.png"},
+          {"text": "TE","image": "assets/images/PAGINA13/MENJAR/TE.png"},
+          {"text": "CAFE","image": "assets/images/PAGINA13/MENJAR/CAFE.png"},
+
+          {"text": "XOCOLATA","image": "assets/images/PAGINA13/MENJAR/XOCOLATA.png"},
+          {"text": "BATUT","image": "assets/images/PAGINA13/MENJAR/BATUT.png"},
+          {"text": "COCA-COLA","image": "assets/images/PAGINA13/MENJAR/COCA_COLA.png"},
+          {"text": "LLIMONADA","image": "assets/images/PAGINA13/MENJAR/LLIMONADA.png"},
+          {"text": "TARONJADA","image": "assets/images/PAGINA13/MENJAR/TARONJADA.png"},
+          {"text": "CERVESA","image": "assets/images/PAGINA13/MENJAR/CERVESA.png"},
+
+          {"text": "VI","image": "assets/images/PAGINA13/MENJAR/VI.png"},
+          {"text": "SAL","image": "assets/images/PAGINA13/MENJAR/SAL.png"},
+          {"text": "SUCRE","image": "assets/images/PAGINA13/MENJAR/SUCRE.png"}
+        ]
+      }
+    ]
+  },
+  {
+    "page": 14,
+    "categories": [
+      {
+        "name": "MENJAR",
+        "items": [
+          {"text": "PANET","image": "assets/images/PAGINA14/MENJAR/PANET.png"},
+          {"text": "PA","image": "assets/images/PAGINA14/MENJAR/PA.png"},
+          {"text": "PA DE MOTLLE","image": "assets/images/PAGINA14/MENJAR/PA_DE_MOTLLE.png"},
+          {"text": "TORRADA","image": "assets/images/PAGINA14/MENJAR/TORRADA.png"},
+          {"text": "EMBOTIT","image": "assets/images/PAGINA14/MENJAR/EMBOTIT.png"},
+          {"text": "ARROS","image": "assets/images/PAGINA14/MENJAR/ARROS.png"},
+
+          {"text": "PAELLA","image": "assets/images/PAGINA14/MENJAR/PAELLA.png"},
+          {"text": "SOPA","image": "assets/images/PAGINA14/MENJAR/SOPA.png"},
+          {"text": "ENSALADILLA","image": "assets/images/PAGINA14/MENJAR/ENSALADILLA.png"},
+          {"text": "PURE","image": "assets/images/PAGINA14/MENJAR/PURE.png"},
+          {"text": "POLLASTRE","image": "assets/images/PAGINA14/MENJAR/POLLASTRE.png"},
+          {"text": "ROSTIT","image": "assets/images/PAGINA14/MENJAR/ROSTIT.png"},
+
+          {"text": "EMPANADILLES","image": "assets/images/PAGINA14/MENJAR/EMPANADILLES.png"},
+          {"text": "CROQUETES","image": "assets/images/PAGINA14/MENJAR/CROQUETES.png"},
+          {"text": "FILET","image": "assets/images/PAGINA14/MENJAR/FILET.png"},
+          {"text": "CANELONS","image": "assets/images/PAGINA14/MENJAR/CANELONS.png"},
+          {"text": "PILOTES","image": "assets/images/PAGINA14/MENJAR/PILOTES.png"},
+          {"text": "PATATES","image": "assets/images/PAGINA14/MENJAR/PATATES.png"},
+
+          {"text": "HAMBURGUESA","image": "assets/images/PAGINA14/MENJAR/HAMBURGUESA.png"},
+          {"text": "SOBRASADA","image": "assets/images/PAGINA14/MENJAR/SOBRASADA.png"},
+          {"text": "PEIX","image": "assets/images/PAGINA14/MENJAR/PEIX.png"},
+          {"text": "GAMBA","image": "assets/images/PAGINA14/MENJAR/GAMBA.png"},
+          {"text": "LLENTIES","image": "assets/images/PAGINA14/MENJAR/LLENTIES.png"},
+          {"text": "CIGRONS","image": "assets/images/PAGINA14/MENJAR/CIGRONS.png"},
+
+          {"text": "ESPAGUETIS","image": "assets/images/PAGINA14/MENJAR/ESPAGUETIS.png"},
+          {"text": "OU","image": "assets/images/PAGINA14/MENJAR/OU.png"},
+          {"text": "TRUITA","image": "assets/images/PAGINA14/MENJAR/TRUITA.png"},
+          {"text": "ENCIAM","image": "assets/images/PAGINA14/MENJAR/ENCIAM.png"},
+          {"text": "PIZZA","image": "assets/images/PAGINA14/MENJAR/PIZZA.png"},
+          {"text": "DONUT","image": "assets/images/PAGINA14/MENJAR/DONUT.png"},
+
+          {"text": "MAGDALENA","image": "assets/images/PAGINA14/MENJAR/MAGDALENA.png"},
+          {"text": "GALETA","image": "assets/images/PAGINA14/MENJAR/GALETA.png"},
+          {"text": "XOCOLATA","image": "assets/images/PAGINA14/MENJAR/XOCOLATA.png"},
+          {"text": "GELAT","image": "assets/images/PAGINA14/MENJAR/GELAT.png"},
+          {"text": "PRESSEC","image": "assets/images/PAGINA14/MENJAR/PRESSEC.png"},
+          {"text": "PINYA","image": "assets/images/PAGINA14/MENJAR/PINYA.png"},
+
+          {"text": "TARONJA","image": "assets/images/PAGINA14/MENJAR/TARONJA.png"},
+          {"text": "CIRERES","image": "assets/images/PAGINA14/MENJAR/CIRERES.png"},
+          {"text": "FRESA","image": "assets/images/PAGINA14/MENJAR/FRESA.png"},
+          {"text": "SINDRIA","image": "assets/images/PAGINA14/MENJAR/SINDRIA.png"},
+          {"text": "MELO","image": "assets/images/PAGINA14/MENJAR/MELO.png"},
+          {"text": "PLATAN","image": "assets/images/PAGINA14/MENJAR/PLATAN.png"},
+
+          {"text": "KIWI","image": "assets/images/PAGINA14/MENJAR/KIWI.png"},
+          {"text": "PIPES","image": "assets/images/PAGINA14/MENJAR/PIPES.png"},
+          {"text": "NOUS","image": "assets/images/PAGINA14/MENJAR/NOUS.png"},
+          {"text": "CASTANYES","image": "assets/images/PAGINA14/MENJAR/CASTANYES.png"},
+          {"text": "PANSES","image": "assets/images/PAGINA14/MENJAR/PANSES.png"},
+          {"text": "AMETLLES","image": "assets/images/PAGINA14/MENJAR/AMETLLES.png"}
+        ]
+      }
+    ]
+  },
+  {
+    "page": 15,
+    "categories": [
+      {
+        "name": "AFICIONS",
+        "items": [
+          {"text": "MUSICA","image": "assets/images/PAGINA15/AFICIONS/MUSICA.png"},
+          {"text": "ROCK AND ROLL","image": "assets/images/PAGINA15/AFICIONS/ROCK_AND_ROLL.png"},
+          {"text": "BEATLES","image": "assets/images/PAGINA15/AFICIONS/BEATLES.png"},
+          {"text": "ROLLING STONES","image": "assets/images/PAGINA15/AFICIONS/ROLLING_STONES.jpg"},
+          {"text": "ERIC CLAPTON","image": "assets/images/PAGINA15/AFICIONS/ERIC_CLAPTON.jpg"},
+          {"text": "BRUCE SPRINGSTEEN","image": "assets/images/PAGINA15/AFICIONS/BRUCE_SPRINGSTEEN.jpg"},
+
+          {"text": "SALSA","image": "assets/images/PAGINA15/AFICIONS/SALSA.png"},
+          {"text": "CLASSICA","image": "assets/images/PAGINA15/AFICIONS/CLASSICA.png"},
+          {"text": "JAZZ","image": "assets/images/PAGINA15/AFICIONS/JAZZ.png"},
+          {"text": "HOUSE","image": "assets/images/PAGINA15/AFICIONS/HOUSE.png"},
+          {"text": "BLUES","image": "assets/images/PAGINA15/AFICIONS/BLUES.png"},
+          {"text": "ESPANYOLA","image": "assets/images/PAGINA15/AFICIONS/ESPANYOLA.png"},
+
+          {"text": "CINE","image": "assets/images/PAGINA15/AFICIONS/CINE.png"},
+          {"text": "COMEDIA","image": "assets/images/PAGINA15/AFICIONS/COMEDIA.png"},
+          {"text": "DRAMA","image": "assets/images/PAGINA15/AFICIONS/DRAMA.png"},
+          {"text": "TERROR","image": "assets/images/PAGINA15/AFICIONS/TERROR.png"},
+          {"text": "POLICIACA","image": "assets/images/PAGINA15/AFICIONS/POLICIACA.png"},
+          {"text": "CIENCIA FICCIO","image": "assets/images/PAGINA15/AFICIONS/CIENCIA_FICCIO.png"},
+
+          {"text": "ANIMACIO","image": "assets/images/PAGINA15/AFICIONS/ANIMACIO.png"},
+          {"text": "AVENTURES","image": "assets/images/PAGINA15/AFICIONS/AVENTURES.png"},
+          {"text": "BELICA","image": "assets/images/PAGINA15/AFICIONS/BELICA.jpg"},
+          {"text": "OEST","image": "assets/images/PAGINA15/AFICIONS/OEST.jpg"},
+          {"text": "AMOR","image": "assets/images/PAGINA15/AFICIONS/AMOR.png"},
+          {"text": "HISTORICA","image": "assets/images/PAGINA15/AFICIONS/HISTORICA.png"}
+        ]
+      },
+      {
+        "name": "PLANTES",
+        "items": [
+          {"text": "SAFRA","image": "assets/images/PAGINA15/PLANTES/SAFRA.png"},
+          {"text": "MARGARIDA","image": "assets/images/PAGINA15/PLANTES/MARGARIDA.png"},
+          {"text": "ROSA","image": "assets/images/PAGINA15/PLANTES/ROSA.png"},
+          {"text": "ROSELLA","image": "assets/images/PAGINA15/PLANTES/ROSELLA.png"},
+          {"text": "CAMPANETA","image": "assets/images/PAGINA15/PLANTES/CAMPANETA.png"},
+          {"text": "CLAVELL","image": "assets/images/PAGINA15/PLANTES/CLAVELL.png"},
+
+          {"text": "GIRASOL","image": "assets/images/PAGINA15/PLANTES/GIRASOL.png"},
+          {"text": "MALVA","image": "assets/images/PAGINA15/PLANTES/MALVA.png"},
+          {"text": "VESC","image": "assets/images/PAGINA15/PLANTES/VESC.png"},
+          {"text": "ORQUIDIA","image": "assets/images/PAGINA15/PLANTES/ORQUIDIA.png"},
+          {"text": "TULIPA","image": "assets/images/PAGINA15/PLANTES/TULIPA.png"},
+          {"text": "VIOLETA","image": "assets/images/PAGINA15/PLANTES/VIOLETA.png"},
+
+          {"text": "CACTUS","image": "assets/images/PAGINA15/PLANTES/CACTUS.png"},
+          {"text": "POLLANCRE","image": "assets/images/PAGINA15/PLANTES/POLLANCRE.png"},
+          {"text": "XIPRER","image": "assets/images/PAGINA15/PLANTES/XIPRER.png"},
+          {"text": "FALGUERA","image": "assets/images/PAGINA15/PLANTES/FALGUERA.png"},
+          {"text": "ROMANI","image": "assets/images/PAGINA15/PLANTES/ROMANI.png"},
+          {"text": "SALZE","image": "assets/images/PAGINA15/PLANTES/SALZE.png"},
+
+          {"text": "FARIGOLA","image": "assets/images/PAGINA15/PLANTES/FARIGOLA.png"},
+          {"text": "PI","image": "assets/images/PAGINA15/PLANTES/PI.png"},
+          {"text": "ALZINA","image": "assets/images/PAGINA15/PLANTES/ALZINA.png"}
+        ]
+      }
+    ]
+  },
+  {
+    "page": 16,
+    "categories": [
+      {
+        "name": "POLITICA",
+        "items": [
+          {"text": "POLITICA","image": "assets/images/PAGINA16/POLITICA/POLITICA.png"},
+          {"text": "ELECCIONS","image": "assets/images/PAGINA16/POLITICA/ELECCIONS.png"},
+          {"text": "VOTAR","image": "assets/images/PAGINA16/POLITICA/VOTAR.png"},
+          {"text": "MUNICIPALS","image": "assets/images/PAGINA16/POLITICA/MUNICIPALS.png"},
+          {"text": "AUTONOMIQUES","image": "assets/images/PAGINA16/POLITICA/AUTONOMIQUES.jpg"},
+          {"text": "GENERALS","image": "assets/images/PAGINA16/POLITICA/GENERALS.jpg"},
+
+          {"text": "BALEARS","image": "assets/images/PAGINA16/POLITICA/BALEARS.png"},
+          {"text": "ESPANYA","image": "assets/images/PAGINA16/POLITICA/ESPANYA.png"},
+          {"text": "EUROPA","image": "assets/images/PAGINA16/POLITICA/EUROPA.jpg"},
+          {"text": "CRISIS","image": "assets/images/PAGINA16/POLITICA/CRISIS.png"},
+          {"text": "COMISIONS OBRERES","image": "assets/images/PAGINA16/POLITICA/COMISIONS_OBRERES.jpg"},
+          {"text": "UGT","image": "assets/images/PAGINA16/POLITICA/UGT.jpg"},
+
+          {"text": "PSIB","image": "assets/images/PAGINA16/POLITICA/PSIB.png"},
+          {"text": "MES PER MALLORCA","image": "assets/images/PAGINA16/POLITICA/MES_PER_MALLORCA.jpg"},
+          {"text": "EL PI","image": "assets/images/PAGINA16/POLITICA/EL_PI.png"},
+          {"text": "PSOE","image": "assets/images/PAGINA16/POLITICA/PSOE.jpg"},
+          {"text": "PARTIT POPULAR","image": "assets/images/PAGINA16/POLITICA/PARTIT_POPULAR.jpg"},
+          {"text": "ESQUERRA UNIDA","image": "assets/images/PAGINA16/POLITICA/ESQUERRA_UNIDA.jpg"},
+
+          {"text": "PNV","image": "assets/images/PAGINA16/POLITICA/PNV.jpg"},
+          {"text": "POLITIC","image": "assets/images/PAGINA16/POLITICA/POLITIC.jpg"},
+          {"text": "INDEPENDENCIA","image": "assets/images/PAGINA16/POLITICA/INDEPENDENCIA.png"},
+          {"text": "ESQUERRA REPUBLICANA","image": "assets/images/PAGINA16/POLITICA/ESQUERRA_REPUBLICANA.gif"},
+          {"text": "UNIDES PODEM","image": "assets/images/PAGINA16/POLITICA/UNIDES_PODEM.png"},
+          {"text": "VOX","image": "assets/images/PAGINA16/POLITICA/VOX.png"}
+        ]
+      },
+      {
+        "name": "COTXES",
+        "items": [
+          {"text": "BMW","image": "assets/images/PAGINA16/COTXES/BMW.jpg"},
+          {"text": "AUDI","image": "assets/images/PAGINA16/COTXES/AUDI.jpg"},
+          {"text": "ALFA ROMEO","image": "assets/images/PAGINA16/COTXES/ALFA_ROMEO.jpg"},
+          {"text": "CITROEN","image": "assets/images/PAGINA16/COTXES/CITROEN.jpg"},
+          {"text": "HONDA","image": "assets/images/PAGINA16/COTXES/HONDA.jpg"},
+          {"text": "MITSUBISHI","image": "assets/images/PAGINA16/COTXES/MITSUBISHI.png"},
+
+          {"text": "VOLKSWAGEN","image": "assets/images/PAGINA16/COTXES/VOLKSWAGEN.jpg"},
+          {"text": "PEUGEOT","image": "assets/images/PAGINA16/COTXES/PEUGEOT.jpg"},
+          {"text": "VOLVO","image": "assets/images/PAGINA16/COTXES/VOLVO.jpg"},
+          {"text": "TOYOTA","image": "assets/images/PAGINA16/COTXES/TOYOTA.jpg"},
+          {"text": "SUZUKI","image": "assets/images/PAGINA16/COTXES/SUZUKI.jpg"},
+          {"text": "KARMANN","image": "assets/images/PAGINA16/COTXES/KARMANN.png"},
+
+          {"text": "FORD","image": "assets/images/PAGINA16/COTXES/FORD.jpg"},
+          {"text": "CHEVROLET","image": "assets/images/PAGINA16/COTXES/CHEVROLET.jpg"},
+          {"text": "BUGATTI","image": "assets/images/PAGINA16/COTXES/BUGATTI.jpg"},
+          {"text": "DAEWOO","image": "assets/images/PAGINA16/COTXES/DAEWOO.jpg"},
+          {"text": "FIAT","image": "assets/images/PAGINA16/COTXES/FIAT.gif"},
+          {"text": "JEEP","image": "assets/images/PAGINA16/COTXES/JEEP.jpg"},
+
+          {"text": "JAGUAR","image": "assets/images/PAGINA16/COTXES/JAGUAR.jpg"},
+          {"text": "OPEL","image": "assets/images/PAGINA16/COTXES/OPEL.jpg"},
+          {"text": "NISSAN","image": "assets/images/PAGINA16/COTXES/NISSAN.jpg"},
+          {"text": "RENAULT","image": "assets/images/PAGINA16/COTXES/RENAULT.jpg"},
+          {"text": "SUBARU","image": "assets/images/PAGINA16/COTXES/SUBARU.jpg"},
+          {"text": "PORCHE","image": "assets/images/PAGINA16/COTXES/PORCHE.jpg"}
+        ]
+      }
+    ]
+  },
+  {
+    "page": 17,
+    "categories": [
+      {
+        "name": "TELEVISIO",
+        "items": [
+          {"text": "TVE","image": "assets/images/PAGINA17/TELEVISIO/TVE.jpg"},
+          {"text": "TVE2","image": "assets/images/PAGINA17/TELEVISIO/TVE2.jpg"},
+          {"text": "TV3","image": "assets/images/PAGINA17/TELEVISIO/TV3.jpg"},
+          {"text": "33","image": "assets/images/PAGINA17/TELEVISIO/33.png"},
+          {"text": "ANTENA3","image": "assets/images/PAGINA17/TELEVISIO/ANTENA3.jpg"},
+          {"text": "TELE5","image": "assets/images/PAGINA17/TELEVISIO/TELE5.png"},
+
+          {"text": "CANAL+","image": "assets/images/PAGINA17/TELEVISIO/CANAL+.png"},
+          {"text": "PARAMOUNT","image": "assets/images/PAGINA17/TELEVISIO/PARAMOUNT.jpg"},
+          {"text": "FDF","image": "assets/images/PAGINA17/TELEVISIO/FDF.jpg"},
+          {"text": "LASEXTA","image": "assets/images/PAGINA17/TELEVISIO/LASEXTA.jpg"},
+          {"text": "LASEXTA2","image": "assets/images/PAGINA17/TELEVISIO/LASEXTA2.jpg"},
+          {"text": "LASEXTA3","image": "assets/images/PAGINA17/TELEVISIO/LASEXTA3.jpg"},
+
+          {"text": "CANAL+LIGA","image": "assets/images/PAGINA17/TELEVISIO/CANAL+LIGA.jpg"},
+          {"text": "DISCOVERY","image": "assets/images/PAGINA17/TELEVISIO/DISCOVERY.jpg"},
+          {"text": "AXN","image": "assets/images/PAGINA17/TELEVISIO/AXN.png"},
+          {"text": "8TV","image": "assets/images/PAGINA17/TELEVISIO/8TV.jpg"},
+          {"text": "FOX","image": "assets/images/PAGINA17/TELEVISIO/FOX.png"},
+          {"text": "NEOX","image": "assets/images/PAGINA17/TELEVISIO/NEOX.jpg"},
+
+          {"text": "INTERECONOMIA","image": "assets/images/PAGINA17/TELEVISIO/INTERECONOMIA.jpg"},
+          {"text": "IB3","image": "assets/images/PAGINA17/TELEVISIO/IB3.jpg"},
+          {"text": "NETFLIX","image": "assets/images/PAGINA17/TELEVISIO/NETFLIX.png"}
+        ]
+      },
+      {
+        "name": "SENTIMENTS",
+        "items": [
+          {"text": "FELIC","image": "assets/images/PAGINA17/SENTIMENTS/FELIC.png"},
+          {"text": "CONTENTA","image": "assets/images/PAGINA17/SENTIMENTS/CONTENTA.png"},
+          {"text": "TRISTA","image": "assets/images/PAGINA17/SENTIMENTS/TRISTA.png"},
+          {"text": "DEPRIMIDA","image": "assets/images/PAGINA17/SENTIMENTS/DEPRIMIDA.png"},
+          {"text": "ENFADADA","image": "assets/images/PAGINA17/SENTIMENTS/ENFADADA.png"},
+          {"text": "ESPANTADA","image": "assets/images/PAGINA17/SENTIMENTS/ESPANTADA.png"},
+
+          {"text": "ABBORRIDA","image": "assets/images/PAGINA17/SENTIMENTS/ABBORRIDA.png"},
+          {"text": "CONFOSA","image": "assets/images/PAGINA17/SENTIMENTS/CONFOSA.png"},
+          {"text": "DESPISTADA","image": "assets/images/PAGINA17/SENTIMENTS/DESPISTADA.png"},
+          {"text": "ENCANTADA","image": "assets/images/PAGINA17/SENTIMENTS/ENCANTADA.png"},
+          {"text": "SORPRESA","image": "assets/images/PAGINA17/SENTIMENTS/SORPRESA.png"},
+
+          {"text": "MALALTA","image": "assets/images/PAGINA17/SENTIMENTS/MALALTA.png"}
+        ]
+      }
+    ]
+  },
+  {
+    "page": 18,
+    "categories": [
+      {
+        "name": "FILERA NUMÈRICA",
+        "items": [
+          {"text": "1","image": "assets/images/PAGINA18/ABECEDARI/1.jpg"},
+          {"text": "2","image": "assets/images/PAGINA18/ABECEDARI/2.jpg"},
+          {"text": "3","image": "assets/images/PAGINA18/ABECEDARI/3.jpg"},
+          {"text": "4","image": "assets/images/PAGINA18/ABECEDARI/4.jpg"},
+          {"text": "5","image": "assets/images/PAGINA18/ABECEDARI/5.jpg"},
+          {"text": "6","image": "assets/images/PAGINA18/ABECEDARI/6.jpg"},
+          {"text": "7","image": "assets/images/PAGINA18/ABECEDARI/7.jpg"},
+          {"text": "8","image": "assets/images/PAGINA18/ABECEDARI/8.jpg"},
+          {"text": "9","image": "assets/images/PAGINA18/ABECEDARI/9.jpg"},
+          {"text": "0","image": "assets/images/PAGINA18/ABECEDARI/0.jpg"}
+        ]
+      },          
+      {
+        "name": "FILERA SUPERIOR",
+        "items": [
+          {"text": "Q","image": "assets/images/PAGINA18/ABECEDARI/Q.jpg"},
+          {"text": "W","image": "assets/images/PAGINA18/ABECEDARI/W.jpg"},
+          {"text": "E","image": "assets/images/PAGINA18/ABECEDARI/E.jpg"},
+          {"text": "R","image": "assets/images/PAGINA18/ABECEDARI/R.jpg"},
+          {"text": "T","image": "assets/images/PAGINA18/ABECEDARI/T.jpg"},
+          {"text": "Y","image": "assets/images/PAGINA18/ABECEDARI/Y.jpg"},
+          {"text": "U","image": "assets/images/PAGINA18/ABECEDARI/U.jpg"},
+          {"text": "I","image": "assets/images/PAGINA18/ABECEDARI/I.jpg"},
+          {"text": "O","image": "assets/images/PAGINA18/ABECEDARI/O.jpg"},
+          {"text": "P","image": "assets/images/PAGINA18/ABECEDARI/P.jpg"}
+        ]
+      },          
+      {
+        "name": "FILERA CENTRAL",
+        "items": [
+          {"text": "A","image": "assets/images/PAGINA18/ABECEDARI/A.jpg"},
+          {"text": "S","image": "assets/images/PAGINA18/ABECEDARI/S.jpg"},
+          {"text": "D","image": "assets/images/PAGINA18/ABECEDARI/D.jpg"},
+          {"text": "F","image": "assets/images/PAGINA18/ABECEDARI/F.jpg"},
+          {"text": "G","image": "assets/images/PAGINA18/ABECEDARI/G.jpg"},
+          {"text": "H","image": "assets/images/PAGINA18/ABECEDARI/H.jpg"},
+          {"text": "J","image": "assets/images/PAGINA18/ABECEDARI/J.jpg"},
+          {"text": "K","image": "assets/images/PAGINA18/ABECEDARI/K.jpg"},
+          {"text": "L","image": "assets/images/PAGINA18/ABECEDARI/L.jpg"},
+          {"text": "Ñ","image": "assets/images/PAGINA18/ABECEDARI/Ñ.jpg"}
+        ]
+      },          
+      {
+        "name": "FILERA INFERIOR",
+        "items": [
+          {"text": "Z","image": "assets/images/PAGINA18/ABECEDARI/Z.jpg"},
+          {"text": "X","image": "assets/images/PAGINA18/ABECEDARI/X.jpg"},
+          {"text": "C","image": "assets/images/PAGINA18/ABECEDARI/C.jpg"},
+          {"text": "V","image": "assets/images/PAGINA18/ABECEDARI/V.jpg"},
+          {"text": "B","image": "assets/images/PAGINA18/ABECEDARI/B.jpg"},
+          {"text": "N","image": "assets/images/PAGINA18/ABECEDARI/N.jpg"},
+          {"text": "M","image": "assets/images/PAGINA18/ABECEDARI/M.jpg"},
+          {"text": "Ç","image": "assets/images/PAGINA18/ABECEDARI/Ç.jpg"},
+          {"text": "ESPAI","image": "assets/images/PAGINA18/ABECEDARI/ESPAI.jpg"},
+          {"text": "ERROR","image": "assets/images/PAGINA18/ABECEDARI/ERROR.jpg"}
+        ]
+      }
+    ]
+  },
+  {
+    "page": 19,
+    "categories": [
+      {
+        "name": "FRASES SALUTACIONS I COMIATS",
+        "items": [
+          {"text": "HOLA, COM ESTAS?","image": "assets/images/PAGINA19/FRASES_SALUTACIONS_I_COMIATS/HOLA_COM_ESTAS.png"},
+          {"text": "DEMAN PER UNA PERSONA","image": "assets/images/PAGINA19/FRASES_SALUTACIONS_I_COMIATS/DEMAN_PER_UNA_PERSONA.png"},
+          {"text": "COM ESTA LA FAMILIA?","image": "assets/images/PAGINA19/FRASES_SALUTACIONS_I_COMIATS/COM_ESTA_LA_FAMILIA.png"},
+          {"text": "TORNARE MES TARD","image": "assets/images/PAGINA19/FRASES_SALUTACIONS_I_COMIATS/TORNARE_MES_TARD.png"},
+          {"text": "ENCANTAT DE CONEIX-ET","image": "assets/images/PAGINA19/FRASES_SALUTACIONS_I_COMIATS/ENCANTAT_DE_CONEIX-ET.png"},
+          {"text": "M’ESPER","image": "assets/images/PAGINA19/FRASES_SALUTACIONS_I_COMIATS/M_ESPER.png"},
+ 
+          {"text": "M'ALEGR DE VEURE'T","image": "assets/images/PAGINA19/FRASES_SALUTACIONS_I_COMIATS/M_ALEGR_DE_VEURE_T.png"},
+          {"text": "VAIG A DONAR FER UNA VOLTA","image": "assets/images/PAGINA19/FRASES_SALUTACIONS_I_COMIATS/VAIG_A_DONAR_FER_UNA_VOLTA.png"},
+          {"text": "HOLA","image": "assets/images/PAGINA19/FRASES_SALUTACIONS_I_COMIATS/HOLA.png"},
+          {"text": "ADEU","image": "assets/images/PAGINA19/FRASES_SALUTACIONS_I_COMIATS/ADEU.png"},
+          {"text": "T’ENVIA RECORDS","image": "assets/images/PAGINA19/FRASES_SALUTACIONS_I_COMIATS/T_ENVIA_RECORDS.png"},
+          {"text": "RECORDS DE LA MEVA PART","image": "assets/images/PAGINA19/FRASES_SALUTACIONS_I_COMIATS/RECORDS_DE_LA_MEVA_PART.png"}
+        ]
+      },
+      {
+        "name": "FELICITACIONS I BONS DESSITJOS",
+        "items": [
+          {"text": "MOLTES FELICITATS!","image": "assets/images/PAGINA19/FELICITACIONS_I_BONS_DESSITJOS/MOLTES_FELICITATS.png"},
+          {"text": "BON NADAL!","image": "assets/images/PAGINA19/FELICITACIONS_I_BONS_DESSITJOS/BON_NADAL.png"},
+          {"text": "ENHORABONA!","image": "assets/images/PAGINA19/FELICITACIONS_I_BONS_DESSITJOS/ENHORABONA.png"},
+          {"text": "BON ANY NOU!","image": "assets/images/PAGINA19/FELICITACIONS_I_BONS_DESSITJOS/BON_ANY_NOU.png"},
+          {"text": "QUE PASSIS UN BON DIA!","image": "assets/images/PAGINA19/FELICITACIONS_I_BONS_DESSITJOS/QUE_PASSIS_UN_BON_DIA.png"},
+          {"text": "BONES VACANCES!","image": "assets/images/PAGINA19/FELICITACIONS_I_BONS_DESSITJOS/BONES_VACANCES.png"},
+          {"text": "BON CAP DE SETMANA!","image": "assets/images/PAGINA19/FELICITACIONS_I_BONS_DESSITJOS/BON_CAP_DE_SETMANA.png"},
+          {"text": "T’ACOMPANY EN EL SENTIMENT","image": "assets/images/PAGINA19/FELICITACIONS_I_BONS_DESSITJOS/T_ACOMPANY_EN_EL_SENTIMENT.png"}
+        ]
+      },
+      {
+        "name": "PREGUNTES",
+        "items": [
+          {"text": "COM ET DIUS?","image": "assets/images/PAGINA19/PREGUNTES/COM_ET_DIUS.png"},
+          {"text": "PERQUE?","image": "assets/images/PAGINA19/PREGUNTES/PERQUE.png"},
+          {"text": "QUINA ES LA TEVA ADRECA I TELEFON?","image": "assets/images/PAGINA19/PREGUNTES/QUINA_ES_LA_TEVA_ADRECA_I_TELEFON.png"},
+          {"text": "QUAN?","image": "assets/images/PAGINA19/PREGUNTES/QUAN.png"},
+          {"text": "QUINA HORA ES?","image": "assets/images/PAGINA19/PREGUNTES/QUINA_HORA_ES.png"},
+          {"text": "QUI?","image": "assets/images/PAGINA19/PREGUNTES/QUI.png"},
+          {"text": "ON ANAM?","image": "assets/images/PAGINA19/PREGUNTES/ON_ANAM.png"},
+          {"text": "QUANT VAL?","image": "assets/images/PAGINA19/PREGUNTES/QUANT_VAL.png"}
+        ]
+      },
+      {
+        "name": "GESTIO DE LA CONVERSA",
+        "items": [
+          {"text": "ESPERAT UN MOMENT, SI US PLAU!","image": "assets/images/PAGINA19/GESTIO_DE_LA_CONVERSA/ESPERAT_UN_MOMENT_SI_US_PLAU.png"},
+          {"text": "M’ENTENS?","image": "assets/images/PAGINA19/GESTIO_DE_LA_CONVERSA/M_ENTENS.png"},
+          {"text": "TORN A COMENÇAR","image": "assets/images/PAGINA19/GESTIO_DE_LA_CONVERSA/TORN_A_COMENCAR.png"},
+          {"text": "CANVI DE TEMA","image": "assets/images/PAGINA19/GESTIO_DE_LA_CONVERSA/CANVI_DE_TEMA.png"},
+          {"text": "NO T’ENTENC","image": "assets/images/PAGINA19/GESTIO_DE_LA_CONVERSA/NO_T_ENTENC.png"},
+          {"text": "POTS REPETIR?","image": "assets/images/PAGINA19/GESTIO_DE_LA_CONVERSA/POTS_REPETIR.png"},
+          {"text": "D’ACORD","image": "assets/images/PAGINA19/GESTIO_DE_LA_CONVERSA/D_ACORD.png"},
+          {"text": "NO OPIN IGUAL","image": "assets/images/PAGINA19/GESTIO_DE_LA_CONVERSA/NO_OPIN_IGUAL.png"}
+        ]
+      }
+    ]
+  },
+  {
+    "page": 20,
+    "categories": [
+      {
+        "name": "ESTATS D’ANIM, SENTIMENTS",
+        "items": [
+          {"text": "ESTIC MOLT BE","image": "assets/images/PAGINA20/ESTATS_D_ANIM_SENTIMENTS/ESTIC_MOLT_BE.png"},
+          {"text": "ESTIC MALAMENT","image": "assets/images/PAGINA20/ESTATS_D_ANIM_SENTIMENTS/ESTIC_MALAMENT.png"},
+          {"text": "VAIG TIRANT","image": "assets/images/PAGINA20/ESTATS_D_ANIM_SENTIMENTS/VAIG_TIRANT.png"},
+          {"text": "ESTIC NERVIOS/SA","image": "assets/images/PAGINA20/ESTATS_D_ANIM_SENTIMENTS/ESTIC_NERVIOS_SA.png"},
+          {"text": "ESTIC CONTENT/A","image": "assets/images/PAGINA20/ESTATS_D_ANIM_SENTIMENTS/ESTIC_CONTENT_A.png"},
+          {"text": "TINC POR","image": "assets/images/PAGINA20/ESTATS_D_ANIM_SENTIMENTS/TINC_POR.png"},
+          {"text": "ESTIC TRIST/A","image": "assets/images/PAGINA20/ESTATS_D_ANIM_SENTIMENTS/ESTIC_TRIST_A.png"},
+          {"text": "ESTIC FRUSTRAT/DA","image": "assets/images/PAGINA20/ESTATS_D_ANIM_SENTIMENTS/ESTIC_FRUSTRAT_DA.png"},
+          {"text": "EM PREOCUPA UNA MICA","image": "assets/images/PAGINA20/ESTATS_D_ANIM_SENTIMENTS/EM_PREOCUPA_UNA_MICA.png"},
+          {"text": "ESTIC CANSAT/DA","image": "assets/images/PAGINA20/ESTATS_D_ANIM_SENTIMENTS/ESTIC_CANSAT_DA.png"}
+        ]
+      },
+      {
+        "name": "NECESITATS I DEMANDES BASIQUES",
+        "items": [
+          {"text": "NO EM TROB BE","image": "assets/images/PAGINA20/NECESITATS_I_DEMANDES_BASIQUES/NO_EM_TROB_BE.png"},
+          {"text": "ESTIC MALALT/A","image": "assets/images/PAGINA20/NECESITATS_I_DEMANDES_BASIQUES/ESTIC_MALALT_A.png"},
+          {"text": "TENC GANES D’ANAR AL BANY","image": "assets/images/PAGINA20/NECESITATS_I_DEMANDES_BASIQUES/TENC_GANES_D_ANAR_AL_BANY.png"},
+          {"text": "TENC FRED","image": "assets/images/PAGINA20/NECESITATS_I_DEMANDES_BASIQUES/TENC_FRED.png"},
+          {"text": "TENC GANA","image": "assets/images/PAGINA20/NECESITATS_I_DEMANDES_BASIQUES/TENC_GANA.png"},
+          {"text": "TENC CALOR","image": "assets/images/PAGINA20/NECESITATS_I_DEMANDES_BASIQUES/TENC_CALOR.png"},
+          {"text": "TENC SED","image": "assets/images/PAGINA20/NECESITATS_I_DEMANDES_BASIQUES/TENC_SED.png"},
+          {"text": "ESTIC MAREJAT/DA","image": "assets/images/PAGINA20/NECESITATS_I_DEMANDES_BASIQUES/ESTIC_MAREJAT_DA.png"}
+        ]
+      }
+    ]
+  }
+]
