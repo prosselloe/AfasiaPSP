@@ -32,14 +32,6 @@ Excel·lent, les sessions que té actualment són més a menys de 60 minuts teni
 
 Error en generar el text: Requests to this API generativelanguage.googleapis.com method google.ai.generativelanguage.v1beta.GenerativeService.GenerateContent are blocked.
 
-https://aistudio.google.com/api-keys?hl=es-419&project=logopeda-ia-psp-app
-Detalles de la clave de API
-Clave de API: AQ.Ab8RN6KWsz6N8nvx_gD0FGw0TMSSItUGwLPddZbqrC6Mzj5ISg
-Nombre: Gemini API Key
-Nombre del proyecto: projects/219019246065
-Número del proyecto: 219019246065
-https://console.cloud.google.com/apis/credentials?project=gen-lang-client-0969405844
-
 Error generating text: models/gemini-1.5-flash is not found for API version v1beta, or is not supported for generateContent. Call ModelService.ListModels to see the list of available models and their supported methods.
 Error generating text: models/gemini-pro is not found for API version v1beta, or is not supported for generateContent. Call ModelService.ListModels to see the list of available models and their supported methods.
 Error: 404 
