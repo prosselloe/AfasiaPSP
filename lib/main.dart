@@ -1,16 +1,18 @@
+import 'dart:developer' as developer;
 import 'package:flutter/foundation.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
 import 'package:google_fonts/google_fonts.dart';
+import 'package:intl/intl.dart';
+import 'package:logopeda/services/asset_loader_service.dart';
 import 'package:logopeda/services/gemini_service.dart';
 import 'package:provider/provider.dart';
 import 'package:firebase_core/firebase_core.dart';
 import 'package:shared_preferences/shared_preferences.dart';
-import 'firebase_options.dart';
 import 'package:speech_to_text/speech_to_text.dart';
 import 'package:flutter_tts/flutter_tts.dart';
-import 'dart:developer' as developer;
-import 'package:intl/intl.dart';
+
+import 'firebase_options.dart';
 import 'visualizer_screen.dart';
 import 'info_screen.dart';
 import 'sessions_visualizer_screen.dart';
@@ -208,7 +210,9 @@ class _MyHomePageState extends State<MyHomePage> {
   void _startListening() async {
     await _stopSpeaking();
     await _speechToText.listen(
-        onResult: _onSpeechResult, pauseFor: const Duration(minutes: 5));
+      onResult: _onSpeechResult,
+      listenOptions: SpeechListenOptions(pauseFor: const Duration(minutes: 5)),
+    );
     setState(() {});
   }
 
@@ -236,21 +240,26 @@ class _MyHomePageState extends State<MyHomePage> {
 
   Future<void> _loadSystemPrompts() async {
     try {
-      final logopeda = await rootBundle.loadString('assets/txt/logopeda.txt');
-      final comunicador =
-          await rootBundle.loadString('assets/data/comunicador.json');
-      setState(() {
-        _logopedaPrompt = logopeda;
-        _comunicadorPrompt = comunicador;
-      });
-    } catch (e) {
+      final logopeda =
+          await AssetLoaderService.instance.loadString('assets/txt/logopeda.txt');
+      final comunicador = await AssetLoaderService.instance
+          .loadString('assets/data/comunicador.json');
+      if (mounted) {
+        setState(() {
+          _logopedaPrompt = logopeda;
+          _comunicadorPrompt = comunicador;
+        });
+      }
+    } catch (e, stackTrace) {
       developer.log('Error loading system prompts',
-          name: 'prompt.error', error: e);
-      setState(() {
-        _logopedaPrompt =
-            "Error: No s'ha pogut carregar el prompt del sistema.";
-        _comunicadorPrompt = "Error: No s'ha pogut carregar el comunicador.";
-      });
+          name: 'prompt.error', error: e, stackTrace: stackTrace);
+      if (mounted) {
+        setState(() {
+          _logopedaPrompt =
+              "Error: No s'ha pogut carregar el prompt del sistema.";
+          _comunicadorPrompt = "Error: No s'ha pogut carregar el comunicador.";
+        });
+      }
     }
   }
 
@@ -481,7 +490,7 @@ class _MyHomePageState extends State<MyHomePage> {
                 final prefs = await SharedPreferences.getInstance();
                 await prefs.remove('conversationHistory');
                 await prefs.remove('sessionStartTime');
-                _loadConversationHistory(); 
+                _loadConversationHistory();
               },
               tooltip: 'Clear History',
             ),

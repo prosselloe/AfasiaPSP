@@ -1,4 +1,5 @@
 import 'package:flutter/material.dart';
+import 'package:logopeda/widgets/hybrid_image.dart';
 
 class FullScreenImageScreen extends StatelessWidget {
   final String imagePath;
@@ -20,25 +21,7 @@ class FullScreenImageScreen extends StatelessWidget {
         minScale: 0.5, // Zoom mínim
         maxScale: 5.0, // Zoom màxim
         child: Center(
-          child: Image.asset(
-            imagePath,
-            fit: BoxFit.contain, // Assegura que la imatge es vegi completa inicialment
-            errorBuilder: (context, error, stackTrace) {
-              return const Center(
-                child: Column(
-                  mainAxisAlignment: MainAxisAlignment.center,
-                  children: [
-                    Icon(Icons.error, color: Colors.red, size: 50),
-                    SizedBox(height: 8),
-                    Text(
-                      'Error al carregar la imatge.',
-                      style: TextStyle(color: Colors.white),
-                    ),
-                  ],
-                ),
-              );
-            },
-          ),
+          child: HybridImage(imagePath: imagePath, fit: BoxFit.contain),
         ),
       ),
     );

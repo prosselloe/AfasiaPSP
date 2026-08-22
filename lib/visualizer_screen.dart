@@ -1,10 +1,12 @@
 import 'dart:convert';
 import 'dart:developer' as developer;
 import 'package:flutter/material.dart';
-import 'package:flutter/services.dart';
 import 'package:logopeda/full_screen_image_screen.dart';
+import 'package:logopeda/services/asset_loader_service.dart';
+import 'package:logopeda/widgets/hybrid_image.dart'; // Importam el widget
 
-// Model de dades per a cada categoria dins d'una pàgina
+// El codi de HybridImage s'ha mogut a lib/widgets/hybrid_image.dart
+
 class PageCategory {
   final String name;
   final List<Map<String, dynamic>> items;
@@ -20,19 +22,12 @@ class VisualizerScreen extends StatefulWidget {
 }
 
 class _VisualizerScreenState extends State<VisualizerScreen> {
-  // Controlador per a la vista de pàgines
   final PageController _pageController = PageController();
-
-  // Llistes per als índexs
   List<dynamic> _pagesData = [];
   List<String> _allCategories = [];
   Map<String, List<Map<String, dynamic>>> _itemsByCategory = {};
-
-  // Estat de la càrrega
   bool _isLoading = true;
   String? _error;
-
-  // Notificador per a la pàgina actual del PageView
   final ValueNotifier<int> _currentPage = ValueNotifier(0);
   String? _selectedCategory;
 
@@ -40,8 +35,6 @@ class _VisualizerScreenState extends State<VisualizerScreen> {
   void initState() {
     super.initState();
     _loadAndProcessData();
-
-    // Listener per actualitzar els indicadors de pàgina
     _pageController.addListener(() {
       if (_pageController.page?.round() != _currentPage.value) {
         _currentPage.value = _pageController.page!.round();
@@ -59,7 +52,7 @@ class _VisualizerScreenState extends State<VisualizerScreen> {
   Future<void> _loadAndProcessData() async {
     try {
       final String jsonString =
-          await rootBundle.loadString('assets/data/comunicador.json');
+          await AssetLoaderService.instance.loadString('assets/data/comunicador.json');
       final List<dynamic> jsonData = json.decode(jsonString);
 
       final List<String> categoriesList = [];
@@ -80,18 +73,22 @@ class _VisualizerScreenState extends State<VisualizerScreen> {
         }
       }
 
-      setState(() {
-        _pagesData = jsonData;
-        _allCategories = categoriesList;
-        _itemsByCategory = itemsMap;
-        _isLoading = false;
-      });
+      if(mounted){
+        setState(() {
+          _pagesData = jsonData;
+          _allCategories = categoriesList;
+          _itemsByCategory = itemsMap;
+          _isLoading = false;
+        });
+      }
     } catch (e, stackTrace) {
       developer.log('Error loading data', error: e, stackTrace: stackTrace);
-      setState(() {
-        _error = 'Error loading data: $e';
-        _isLoading = false;
-      });
+      if(mounted){
+        setState(() {
+          _error = 'Error loading data: $e';
+          _isLoading = false;
+        });
+      }
     }
   }
 
@@ -120,7 +117,6 @@ class _VisualizerScreenState extends State<VisualizerScreen> {
     );
   }
 
-  // Dropdown per a les pàgines
   Widget _buildPagesDropdown() {
     return ValueListenableBuilder<int>(
       valueListenable: _currentPage,
@@ -148,7 +144,6 @@ class _VisualizerScreenState extends State<VisualizerScreen> {
     );
   }
 
-  // Dropdown per a les categories
   Widget _buildCategoriesDropdown() {
     return DropdownButton<String>(
       hint: const Text('Categoria'),
@@ -162,7 +157,6 @@ class _VisualizerScreenState extends State<VisualizerScreen> {
           setState(() {
             _selectedCategory = newCategory;
           });
-          // Troba la primera pàgina que conté aquesta categoria
           final pageIndex = _pagesData.indexWhere((page) => 
               (page['categories'] as List)
               .any((cat) => cat['name'] == newCategory)
@@ -192,7 +186,6 @@ class _VisualizerScreenState extends State<VisualizerScreen> {
     );
   }
 
-  // Vista del llibre paginat
   Widget _buildBookView() {
     return Column(
       children: [
@@ -216,13 +209,11 @@ class _VisualizerScreenState extends State<VisualizerScreen> {
             },
           ),
         ),
-        // Controls de navegació del PageView
         _buildPageIndicator(),
       ],
     );
   }
   
-  // Secció d'una categoria dins d'una pàgina
   Widget _buildCategorySection(PageCategory category) {
     return Column(
       crossAxisAlignment: CrossAxisAlignment.start,
@@ -249,7 +240,6 @@ class _VisualizerScreenState extends State<VisualizerScreen> {
     );
   }
 
-  // Card per a la graella
   Widget _buildGridCard(Map<String, dynamic> item) {
     final imagePath = getAssetPath(item['image']);
     final text = item['text'] as String? ?? '';
@@ -262,14 +252,7 @@ class _VisualizerScreenState extends State<VisualizerScreen> {
         crossAxisAlignment: CrossAxisAlignment.stretch,
         children: [
           Expanded(
-            child: Image.asset(
-              imagePath,
-              fit: BoxFit.contain,
-              errorBuilder: (context, error, stackTrace) {
-                developer.log('Failed to load image: $imagePath', name: 'grid.image.error');
-                return const Icon(Icons.broken_image, color: Colors.grey, size: 40);
-              },
-            ),
+            child: HybridImage(imagePath: imagePath, fit: BoxFit.contain),
           ),
           Padding(
             padding: const EdgeInsets.all(8.0),
@@ -288,7 +271,6 @@ class _VisualizerScreenState extends State<VisualizerScreen> {
     return Card(clipBehavior: Clip.antiAlias, child: InkWell(onTap: onTapAction, child: cardChild));
   }
 
-  // Indicador de pàgina (fletxes i punts)
   Widget _buildPageIndicator() {
     return ValueListenableBuilder<int>(
       valueListenable: _currentPage,
@@ -330,7 +312,6 @@ class _VisualizerScreenState extends State<VisualizerScreen> {
   }
 }
 
-// Pantalla per mostrar tots els ítems d'una categoria
 class CategoryItemsScreen extends StatelessWidget {
   final String categoryName;
   final List<Map<String, dynamic>> items;
@@ -363,7 +344,7 @@ class CategoryItemsScreen extends StatelessWidget {
                  children: [
                   Expanded(
                     child: imagePath.isNotEmpty 
-                      ? Image.asset(imagePath, fit: BoxFit.contain, errorBuilder: (c, o, s) => const Icon(Icons.broken_image, size: 40)) 
+                      ? HybridImage(imagePath: imagePath, fit: BoxFit.contain) 
                       : Center(child: Text(text, textAlign: TextAlign.center)),
                   ),
                   Padding(padding: const EdgeInsets.all(8.0), child: Text(text, textAlign: TextAlign.center, style: const TextStyle(fontSize: 12))),
