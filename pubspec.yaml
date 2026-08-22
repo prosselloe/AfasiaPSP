@@ -1,0 +1,73 @@
+name: logopeda
+description: "Afàsia PSP"
+publish_to: 'none'
+version: 1.0.0+25
+
+environment:
+  sdk: '>=3.2.3 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.8
+  firebase_core: ^2.31.0
+  provider: ^6.1.2
+  google_fonts: ^6.2.1
+  google_generative_ai: ^0.4.7
+  http: ^1.6.0
+  speech_to_text: ^7.4.0
+  flutter_tts: ^4.2.5
+  collection: ^1.19.1
+  shared_preferences: ^2.5.5
+  flutter_markdown: ^0.7.7+1
+  intl: ^0.20.2
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^4.0.0
+  flutter_launcher_icons: ^0.14.4
+
+flutter:
+  uses-material-design: true
+  assets:
+    - README.md
+    - assets/data/
+    - assets/txt/
+    - assets/images/
+    - assets/images/PAGINA01/
+    - assets/images/PAGINA02/PERSONES/
+    - assets/images/PAGINA03/PERSONES/
+    - assets/images/PAGINA04/
+    - assets/images/PAGINA05/DIES/
+    - assets/images/PAGINA05/ESTACIONS/
+    - assets/images/PAGINA05/MESOS/
+    - assets/images/PAGINA05/TEMPS/
+    - assets/images/PAGINA06/COLORS/
+    - assets/images/PAGINA06/ROBA/
+    - assets/images/PAGINA07/COMPLEMENTS/
+    - assets/images/PAGINA07/ESTETICA/
+    - assets/images/PAGINA08/LLOCS/
+    - assets/images/PAGINA09/MAPES/
+    - assets/images/PAGINA10/MAPES/
+    - assets/images/PAGINA10/TRANSPORT/
+    - assets/images/PAGINA11/TRANSPORT/
+    - assets/images/PAGINA11/VERBS/
+    - assets/images/PAGINA12/VERBS/
+    - assets/images/PAGINA13/MENJAR/
+    - assets/images/PAGINA13/VERBS/
+    - assets/images/PAGINA14/MENJAR/
+    - assets/images/PAGINA15/AFICIONS/
+    - assets/images/PAGINA15/PLANTES/
+    - assets/images/PAGINA16/COTXES/
+    - assets/images/PAGINA16/POLITICA/
+    - assets/images/PAGINA17/SENTIMENTS/
+    - assets/images/PAGINA17/TELEVISIO/
+    - assets/images/PAGINA18/ABECEDARI/
+
+flutter_launcher_icons:
+  android: "launcher_icon"
+  ios: true
+  image_path: "assets/images/logo.png"
+  web:
+    generate: true
